@@ -2,20 +2,22 @@ package com.punjitha.TicketingSystem.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 import lombok.ToString;
 
-import java.io.Serializable;
-
-@ToString
+@NoArgsConstructor
+@ToString(callSuper = true)
 @Entity
-public class Customer implements Serializable {
-    @Getter
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(nullable = false, updatable = false)
-    private Long id;
+public class Customer extends User {
 
-    public Customer() {
-    }
+        @Transient
+        private TicketPool ticketPool;
+        @Transient
+        private int customerRetrievalRate;
+
+        public Customer(TicketPool ticketPool, int customerRetrievalRate) {
+            this.ticketPool = ticketPool;
+            this.customerRetrievalRate = customerRetrievalRate;
+        }
 
 }

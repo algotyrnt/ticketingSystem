@@ -2,7 +2,10 @@ package com.punjitha.TicketingSystem.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
+@NoArgsConstructor
 @Entity
 public class Ticket {
     @Getter
@@ -16,26 +19,11 @@ public class Ticket {
     private String eventTime;
     private String eventDescription;
 
-    public Ticket() {
-    }
-
     public Ticket(String eventName, String eventLocation, String eventDate, String eventTime, String eventDescription) {
         this.eventName = eventName;
         this.eventLocation = eventLocation;
         this.eventDate = eventDate;
         this.eventTime = eventTime;
         this.eventDescription = eventDescription;
-    }
-
-    @Override
-    public String toString() {
-        return "Ticket{" +
-                "id=" + id +
-                ", eventName='" + eventName + '\'' +
-                ", eventLocation='" + eventLocation + '\'' +
-                ", eventDate='" + eventDate + '\'' +
-                ", eventTime='" + eventTime + '\'' +
-                ", eventDescription='" + eventDescription + '\'' +
-                '}';
     }
 }
