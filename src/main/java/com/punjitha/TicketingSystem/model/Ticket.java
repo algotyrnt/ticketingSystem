@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 import lombok.ToString;
 
 @NoArgsConstructor
+@ToString
 @Entity
 public class Ticket {
     @Getter
@@ -13,17 +14,14 @@ public class Ticket {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(nullable = false, updatable = false)
     private Long id;
-    private String eventName;
-    private String eventLocation;
-    private String eventDate;
-    private String eventTime;
-    private String eventDescription;
 
-    public Ticket(String eventName, String eventLocation, String eventDate, String eventTime, String eventDescription) {
+    private String eventName = "systemEvent";
+    private String eventLocation = "systemLocation";
+    private String eventDescription = "system created event";
+
+    public Ticket(String eventName, String eventLocation, String eventDescription) {
         this.eventName = eventName;
         this.eventLocation = eventLocation;
-        this.eventDate = eventDate;
-        this.eventTime = eventTime;
         this.eventDescription = eventDescription;
     }
 }
