@@ -1,13 +1,10 @@
 package com.punjitha.TicketingSystem.config;
 
-public class SystemConfig{
+public class SystemConfig {
     private int totalTickets;
     private int ticketReleaseRate;
     private int customerRetrievalRate;
     private int maxTicketCapacity;
-
-    public SystemConfig() {
-    }
 
     public SystemConfig(int totalTickets, int ticketReleaseRate, int customerRetrievalRate, int maxTicketCapacity) {
         this.totalTickets = totalTickets;
@@ -16,32 +13,35 @@ public class SystemConfig{
         this.maxTicketCapacity = maxTicketCapacity;
     }
 
+    public SystemConfig() {
+    }
+
     public int getTotalTickets() {
-        return totalTickets;
+        return this.totalTickets;
+    }
+
+    public int getTicketReleaseRate() {
+        return this.ticketReleaseRate;
+    }
+
+    public int getCustomerRetrievalRate() {
+        return this.customerRetrievalRate;
+    }
+
+    public int getMaxTicketCapacity() {
+        return this.maxTicketCapacity;
     }
 
     public void setTotalTickets(int totalTickets) {
         this.totalTickets = totalTickets;
     }
 
-    public int getTicketReleaseRate() {
-        return ticketReleaseRate;
-    }
-
     public void setTicketReleaseRate(int ticketReleaseRate) {
         this.ticketReleaseRate = ticketReleaseRate;
     }
 
-    public int getCustomerRetrievalRate() {
-        return customerRetrievalRate;
-    }
-
     public void setCustomerRetrievalRate(int customerRetrievalRate) {
         this.customerRetrievalRate = customerRetrievalRate;
-    }
-
-    public int getMaxTicketCapacity() {
-        return maxTicketCapacity;
     }
 
     public void setMaxTicketCapacity(int maxTicketCapacity) {

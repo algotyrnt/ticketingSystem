@@ -1,22 +1,37 @@
 package com.punjitha.TicketingSystem.model;
 
 import jakarta.persistence.*;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.ToString;
 
-@NoArgsConstructor
-@ToString
 @Entity
 @Inheritance(strategy = InheritanceType.JOINED)
-public class User
-{
+public class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(nullable = false, updatable = false)
-    @Getter
     private Long id;
 
     private String userName = "systemUser";
     private String email = "systemUser@punjitha.com";
+
+    public User() {
+    }
+
+    public void getUserId() {
+    }
+
+    public String getUserName() {
+        return this.userName;
+    }
+
+    public String getEmail() {
+        return this.email;
+    }
+
+    public String toString() {
+        return "User(id=" + this.getId() + ", userName=" + this.getUserName() + ", email=" + this.getEmail() + ")";
+    }
+
+    public Long getId() {
+        return this.id;
+    }
 }
