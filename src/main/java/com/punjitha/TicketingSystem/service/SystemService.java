@@ -5,7 +5,7 @@ import com.punjitha.TicketingSystem.utility.ConfigSerializer;
 import org.springframework.stereotype.Service;
 
 @Service
-public class SystemConfigService {
+public class SystemService {
     private static final String filePath = "src/main/resources/systemConfig.json";
 
     public SystemConfig getConfig()  {
@@ -16,7 +16,7 @@ public class SystemConfigService {
         return config;
     }
 
-    public void updateConfig(SystemConfig newConfig)  {
-        ConfigSerializer.saveToFile(newConfig, filePath);  // Save to JSON file
+    public void startSystem(SystemConfig config) {
+        ConfigSerializer.saveToFile(config, filePath);  // Save configuration to JSON file
     }
 }

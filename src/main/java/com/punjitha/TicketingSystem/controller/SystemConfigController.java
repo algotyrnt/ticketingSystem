@@ -1,7 +1,7 @@
 package com.punjitha.TicketingSystem.controller;
 
 import com.punjitha.TicketingSystem.config.SystemConfig;
-import com.punjitha.TicketingSystem.service.SystemConfigService;
+import com.punjitha.TicketingSystem.service.SystemService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -9,23 +9,23 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/system")
 public class SystemConfigController {
 
-    private final SystemConfigService systemConfigService;
+    private final SystemService systemService;
 
-    public SystemConfigController(SystemConfigService systemConfigService) {
-        this.systemConfigService = systemConfigService;
+    public SystemConfigController(SystemService systemService) {
+        this.systemService = systemService;
     }
 
     @GetMapping
     public SystemConfig getConfig() {
-        return systemConfigService.getConfig();
+        return systemService.getConfig();
     }
 
-    record SystemConfigRecord(int totalTickets, int ticketReleaseRate, int customerRetrievalRate, int maxTicketCapacity) {}
+    record SystemConfiguration(int totalTickets, int ticketReleaseRate, int customerRetrievalRate, int maxTicketCapacity) {}
     @PostMapping(consumes = "application/json")
-    public ResponseEntity<String> updateConfig(@RequestBody SystemConfigRecord newConfig) {
+    public ResponseEntity<String> startSystem(@RequestBody SystemConfiguration newConfig) {
         SystemConfig config = new SystemConfig(newConfig.totalTickets(), newConfig.ticketReleaseRate(), newConfig.customerRetrievalRate(), newConfig.maxTicketCapacity());
-        systemConfigService.updateConfig(config);
-        return ResponseEntity.ok("Configuration updated successfully.");
+        systemService.startSystem(config);
+        return ResponseEntity.ok("System Started");
     }
 
 }
