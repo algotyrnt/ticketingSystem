@@ -1,5 +1,6 @@
 package com.punjitha.TicketingSystem.service;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
 import org.springframework.stereotype.Service;
 
@@ -15,6 +16,7 @@ public class LoggerService {
 
     private final SimpMessagingTemplate messagingTemplate;
 
+    @Autowired
     public LoggerService(SimpMessagingTemplate messagingTemplate) {
         this.messagingTemplate = messagingTemplate;
     }
@@ -45,7 +47,7 @@ public class LoggerService {
 
     // Send log message to WebSocket
     private void sendToWebSocket(String message) {
-        messagingTemplate.convertAndSend("/log/logs", message); // Send log to WebSocket channel
+        messagingTemplate.convertAndSend("/topic/messages", message); // Send log to WebSocket channel
     }
 }
 
