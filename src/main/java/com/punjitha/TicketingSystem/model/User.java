@@ -1,17 +1,11 @@
 package com.punjitha.TicketingSystem.model;
 
 import jakarta.persistence.*;
-import lombok.*;
-
-@Entity
-@Inheritance(strategy = InheritanceType.SINGLE_TABLE)
-@DiscriminatorColumn(name = "userType", discriminatorType = DiscriminatorType.STRING)
+import lombok.Getter;
 
 @Getter
-@Setter
-@ToString
-@NoArgsConstructor
-public class User {
+@MappedSuperclass
+public abstract class User {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(nullable = false, updatable = false)

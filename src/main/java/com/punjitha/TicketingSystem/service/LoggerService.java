@@ -47,7 +47,7 @@ public class LoggerService {
 
     // Send log message to WebSocket
     private void sendToWebSocket(String message) {
-        messagingTemplate.convertAndSend("/topic/messages", message); // Send log to WebSocket channel
+        messagingTemplate.convertAndSend("/topic/logs", message); // Send log to WebSocket channel
     }
 }
 

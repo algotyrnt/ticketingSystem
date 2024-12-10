@@ -1,39 +1,56 @@
 package com.punjitha.TicketingSystem.service;
 
+import com.punjitha.TicketingSystem.config.SystemConfig;
+import com.punjitha.TicketingSystem.model.Customer;
 import com.punjitha.TicketingSystem.model.Ticket;
+import com.punjitha.TicketingSystem.model.TicketPool;
+import com.punjitha.TicketingSystem.model.Vendor;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-@Component
-@Transactional
+@Service
 public class TicketPoolService {
     private final LoggerService loggerService;
-    private final Queue<Ticket> tickets = new LinkedList<>();
+    private final TicketService ticketService;
 
-    public TicketPoolService(LoggerService loggerService) {
+    public TicketPoolService(LoggerService loggerService, TicketService ticketService) {
         this.loggerService = loggerService;
+        this.ticketService = ticketService;
     }
 
-    public synchronized void addTicket(Ticket ticket) {
-        tickets.add(ticket);
-        loggerService.logAndNotify("Ticket added to pool: " + ticket);
+    public TicketPool createTicketPool(int maxTicketCapacity) {
+        return new TicketPool(maxTicketCapacity);
     }
 
-    public synchronized List<Ticket> getAvailableTickets() {
-        return new LinkedList<>(tickets);
-    }
-
-    public synchronized Ticket removeTicket() {
-        if (!tickets.isEmpty()) {
-            Ticket ticket = tickets.poll();
-            loggerService.logAndNotify("Ticket removed from pool: " + ticket);
-            return ticket;
+    public synchronized void addTicket(Vendor vendor, TicketPool ticketPool) {
+        while (ticketPool.getTicketQueue().size() >= ticketPool.getMaximumTicketCapacity()){
+            try {
+                wait();
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e.getMessage());
+            }
         }
-        loggerService.logAndNotify("No tickets available in the pool.");
-        return null;
+        Ticket ticket = ticketService.createTicket();
+        ticketPool.getTicketQueue().add(ticket);
+        notifyAll();
+        loggerService.logAndNotify(vendor + " added " + ticket);
+    }
+
+    public synchronized void buyTicket(Customer customer, TicketPool ticketPool) {
+        while (ticketPool.getTicketQueue().isEmpty()){
+            try {
+                wait(); // If queue is empty add Customer to waiting status
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e.getMessage());
+            }
+        }
+        Ticket ticket = ticketPool.getTicketQueue().poll();
+        notifyAll();
+        loggerService.logAndNotify(customer + " bought " + ticket);
     }
 }

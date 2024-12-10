@@ -1,13 +1,12 @@
 package com.punjitha.TicketingSystem.model;
 
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 @Entity
-@DiscriminatorValue("CUSTOMER")
 @Getter
-@Setter
-@ToString
 @NoArgsConstructor
 public class Customer extends User {
 
@@ -17,5 +16,9 @@ public class Customer extends User {
     public Customer(int customerRetrievalRate) {
         super();
         this.customerRetrievalRate = customerRetrievalRate;
+    }
+
+    public String toString() {
+        return "Customer(id=" + this.getId() + ")";
     }
 }

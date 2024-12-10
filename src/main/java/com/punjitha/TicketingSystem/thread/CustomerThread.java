@@ -1,33 +1,26 @@
 package com.punjitha.TicketingSystem.thread;
 
 import com.punjitha.TicketingSystem.model.Customer;
-import com.punjitha.TicketingSystem.service.LoggerService;
-import com.punjitha.TicketingSystem.service.SystemConfigService;
-import com.punjitha.TicketingSystem.service.TicketService;
-import com.punjitha.TicketingSystem.service.UserService;
-import lombok.AllArgsConstructor;
-import org.springframework.stereotype.Service;
+import com.punjitha.TicketingSystem.model.TicketPool;
+import com.punjitha.TicketingSystem.service.TicketPoolService;
 
-@Service
 public class CustomerThread implements Runnable{
 
-    private final LoggerService loggerService;
+    private final TicketPoolService ticketPoolService;
     private final Customer customer;
-    private final TicketService ticketService;
+    private final TicketPool ticketPool;
 
-    public CustomerThread(LoggerService loggerService, TicketService ticketService, UserService userService, SystemConfigService systemConfigService) {
-        this.loggerService = loggerService;
-        this.customer = userService.createCustomer(systemConfigService.getConfig().getCustomerRetrievalRate());
-        this.ticketService = ticketService;
+    public CustomerThread(TicketPoolService ticketPoolService, Customer customer, TicketPool ticketPool) {
+        this.ticketPoolService = ticketPoolService;
+        this.customer = customer;
+        this.ticketPool = ticketPool;
     }
 
     @Override
     public void run() {
-        if (ticketService.purchaseTicket()) {
-            loggerService.logAndNotify(customer + " purchased a ticket.");
-        }
+        ticketPoolService.buyTicket(customer, ticketPool);
         try {
-            Thread.sleep(1000 * customer.getCustomerRetrievalRate());
+            Thread.sleep(1000L * customer.getCustomerRetrievalRate());
         } catch (InterruptedException e) {
             Thread.currentThread().interrupt();
         }

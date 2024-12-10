@@ -16,6 +16,7 @@ public class Ticket {
     @Column(nullable = false, updatable = false)
     private Long id;
 
-    @Column(nullable = false)
-    private boolean isSold = false;
+    public String toString() {
+        return "Ticket(id=" + this.getId() + ")";
+    }
 }

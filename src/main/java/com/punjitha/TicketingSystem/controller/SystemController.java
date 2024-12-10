@@ -26,7 +26,7 @@ public class SystemController {
     public ResponseEntity<String> startSystem(@RequestBody SystemConfiguration newConfig) {
         SystemConfig config = new SystemConfig(newConfig.totalTickets(), newConfig.ticketReleaseRate(), newConfig.customerRetrievalRate(), newConfig.maxTicketCapacity());
         systemConfigService.saveConfig(config);
-        simulator.startSimulation();
+        simulator.startSimulation(config);
         return ResponseEntity.ok("System Started");
     }
 

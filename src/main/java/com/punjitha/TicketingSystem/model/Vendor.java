@@ -4,18 +4,22 @@ import jakarta.persistence.*;
 import lombok.*;;
 
 @Entity
-@DiscriminatorValue("VENDOR")
 @Getter
-@Setter
-@ToString
 @NoArgsConstructor
 public class Vendor extends User {
 
     @Transient
+    private int totalTickets; // Tickets willing to sell
+    @Transient
     private int ticketReleaseRate;
 
-    public Vendor(int ticketReleaseRate) {
+    public Vendor(int totalTickets, int ticketReleaseRate) {
         super();
+        this.totalTickets = totalTickets;
         this.ticketReleaseRate = ticketReleaseRate;
+    }
+
+    public String toString() {
+        return "Vendor(id=" + this.getId() + ")";
     }
 }
