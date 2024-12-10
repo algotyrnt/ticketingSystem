@@ -5,10 +5,10 @@ import com.punjitha.TicketingSystem.utility.ConfigSerializer;
 import org.springframework.stereotype.Service;
 
 @Service
-public class SystemService {
+public class SystemConfigService {
     private static final String filePath = "src/main/resources/systemConfig.json";
 
-    public SystemConfig getConfig()  {
+    public SystemConfig getConfig() {
         SystemConfig config = ConfigSerializer.loadFromFile(filePath); // Load from JSON file
         if (config == null) {
             throw new RuntimeException("System configuration not found");
@@ -16,7 +16,7 @@ public class SystemService {
         return config;
     }
 
-    public void startSystem(SystemConfig config) {
+    public void saveConfig(SystemConfig config) {
         ConfigSerializer.saveToFile(config, filePath);  // Save configuration to JSON file
     }
 }
