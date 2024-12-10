@@ -1,7 +1,7 @@
 package com.punjitha.TicketingSystem.model;
 
 import jakarta.persistence.*;
-import lombok.*;;
+import lombok.*;
 
 @Entity
 @Getter
