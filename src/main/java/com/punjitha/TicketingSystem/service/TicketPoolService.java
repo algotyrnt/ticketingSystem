@@ -1,17 +1,10 @@
 package com.punjitha.TicketingSystem.service;
 
-import com.punjitha.TicketingSystem.config.SystemConfig;
 import com.punjitha.TicketingSystem.model.Customer;
 import com.punjitha.TicketingSystem.model.Ticket;
 import com.punjitha.TicketingSystem.model.TicketPool;
 import com.punjitha.TicketingSystem.model.Vendor;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
-import org.springframework.transaction.annotation.Transactional;
-
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
 
 @Service
 public class TicketPoolService {

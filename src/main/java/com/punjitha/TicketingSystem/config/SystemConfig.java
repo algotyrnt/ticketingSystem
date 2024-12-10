@@ -13,5 +13,5 @@ public class SystemConfig {
     private int totalTickets; // Total number of tickets to be released
     private int ticketReleaseRate;
     private int customerRetrievalRate;
-    private int maxTicketCapacity; // Maximum number of tickets that can be held by a ticketpool
+    private int maxTicketCapacity; // Maximum number of tickets that can be held by a ticket pool
 }

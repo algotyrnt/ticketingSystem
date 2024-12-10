@@ -18,7 +18,7 @@ public class SimulatorService {
 
     public void startSimulation(SystemConfig config) {
 
-        TicketPool ticketPool = new TicketPool(config.getMaxTicketCapacity());
+        TicketPool ticketPool = ticketPoolService.createTicketPool(config.getMaxTicketCapacity());
 
         for(int i = 0; i < 10; i++) {
             Vendor vendor = vendorService.createVendor(config.getTotalTickets(), config.getTicketReleaseRate());

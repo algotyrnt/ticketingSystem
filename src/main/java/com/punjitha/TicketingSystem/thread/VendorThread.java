@@ -2,7 +2,6 @@ package com.punjitha.TicketingSystem.thread;
 
 import com.punjitha.TicketingSystem.model.TicketPool;
 import com.punjitha.TicketingSystem.model.Vendor;
-import com.punjitha.TicketingSystem.service.LoggerService;
 import com.punjitha.TicketingSystem.service.TicketPoolService;
 
 public class VendorThread implements Runnable{
