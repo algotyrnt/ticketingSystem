@@ -8,21 +8,29 @@ import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.List;
+
 @Service
+@Transactional
 @AllArgsConstructor
 public class VendorService {
 
     private final VendorRepository vendorRepository;
+    private final LoggerService loggerService;
 
-    @Transactional
-    public Vendor createVendor(int TotalTickets, int TicketReleaseRate) {
-        Vendor vendor = new Vendor(TotalTickets, TicketReleaseRate);
+    public Vendor createVendor(Vendor vendor) {
         return vendorRepository.save(vendor);
     }
 
-    public void startVendorThread(Vendor vendor, TicketPool ticketPool, TicketPoolService ticketPoolService) {
-        VendorThread vendorThread = new VendorThread(ticketPoolService, vendor, ticketPool);
-        Thread thread = new Thread(vendorThread);
-        thread.start();
+    public List<Vendor> getAllVendors() {
+        return vendorRepository.findAll();
+    }
+
+    public void deleteVendor(Long id) {
+        vendorRepository.deleteUserById(id);
+    }
+
+    public Vendor updateVendor(Vendor vendor) {
+        return vendorRepository.save(vendor);
     }
 }

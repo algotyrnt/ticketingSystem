@@ -8,21 +8,29 @@ import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.List;
+
 @Service
+@Transactional
 @AllArgsConstructor
 public class CustomerService {
 
     private final CustomerRepository customerRepository;
+    private final LoggerService loggerService;
 
-    @Transactional
-    public Customer createCustomer(int customerRetrievalRate) {
-        Customer customer = new Customer(customerRetrievalRate);
+    public Customer createCustomer(Customer customer) {
         return customerRepository.save(customer);
     }
 
-    public void startCustomerThread(Customer customer, TicketPool ticketPool, TicketPoolService ticketPoolService) {
-        CustomerThread customerThread = new CustomerThread(ticketPoolService, customer, ticketPool);
-        Thread thread = new Thread(customerThread);
-        thread.start();
+    public List<Customer> getAllCustomers() {
+        return customerRepository.findAll();
+    }
+
+    public void deleteCustomer(Long id) {
+        customerRepository.deleteUserById(id);
+    }
+
+    public Customer updateCustomer(Customer customer) {
+        return customerRepository.save(customer);
     }
 }

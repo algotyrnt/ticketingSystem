@@ -18,11 +18,13 @@ public class CustomerThread implements Runnable{
 
     @Override
     public void run() {
-        ticketPoolService.buyTicket(customer, ticketPool);
-        try {
-            Thread.sleep(1000L * customer.getCustomerRetrievalRate());
-        } catch (InterruptedException e) {
-            Thread.currentThread().interrupt();
+        for (int j = 0; j < customer.getTotalTickets(); j++) {
+            ticketPoolService.buyTicket(customer, ticketPool);
+            try {
+                Thread.sleep(1000L * customer.getCustomerRetrievalRate());
+            } catch (InterruptedException e) {
+                Thread.currentThread().interrupt();
+            }
         }
     }
 }

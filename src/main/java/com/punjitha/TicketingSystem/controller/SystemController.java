@@ -13,18 +13,23 @@ import org.springframework.web.bind.annotation.*;
 public class SystemController {
 
     private final SystemConfigService systemConfigService;
-    private final SimulatorService simulator;
+    private final SimulatorService simulatorService;
 
-    @GetMapping
+    @GetMapping("/config")
     public SystemConfig getConfig() {
         return systemConfigService.getConfig();
     }
 
-    @PostMapping(consumes = "application/json")
+    @PostMapping("/start")
     public ResponseEntity<String> startSystem(@RequestBody SystemConfig config) {
         systemConfigService.saveConfig(config);
-        simulator.startSimulation(config);
+        simulatorService.startSimulation(config);
         return ResponseEntity.ok("System Started");
     }
 
+    @PostMapping("/stop")
+    public ResponseEntity<String> stopThreadPool() {
+        simulatorService.stopSimulation();
+        return ResponseEntity.ok("Simulation stopped");
+    }
 }

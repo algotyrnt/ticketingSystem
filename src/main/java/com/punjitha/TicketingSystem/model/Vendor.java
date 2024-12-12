@@ -8,9 +8,7 @@ import lombok.*;
 @NoArgsConstructor
 public class Vendor extends User {
 
-    @Transient
     private int totalTickets; // Tickets willing to sell
-    @Transient
     private int ticketReleaseRate;
 
     public Vendor(int totalTickets, int ticketReleaseRate) {

@@ -4285,3 +4285,1484 @@
 10-12-2024 23:51:35 - Vendor(id=8) added Ticket(id=18)
 10-12-2024 23:51:35 - Vendor(id=9) added Ticket(id=19)
 10-12-2024 23:51:35 - Vendor(id=10) added Ticket(id=20)
+11-12-2024 13:01:16 - Vendor(id=1) started selling tickets.
+11-12-2024 13:01:16 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 13:01:16 - Customer(id=1) started buying tickets.
+11-12-2024 13:01:16 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 13:01:16 - Vendor(id=2) started selling tickets.
+11-12-2024 13:01:16 - Customer(id=2) started buying tickets.
+11-12-2024 13:01:16 - Vendor(id=2) added Ticket(id=2)
+11-12-2024 13:01:16 - Customer(id=2) bought Ticket(id=2)
+11-12-2024 13:01:16 - Vendor(id=3) started selling tickets.
+11-12-2024 13:01:16 - Customer(id=3) started buying tickets.
+11-12-2024 13:01:16 - Vendor(id=3) added Ticket(id=3)
+11-12-2024 13:01:16 - Customer(id=3) bought Ticket(id=3)
+11-12-2024 13:01:16 - Vendor(id=4) started selling tickets.
+11-12-2024 13:01:16 - Customer(id=4) started buying tickets.
+11-12-2024 13:01:16 - Vendor(id=4) added Ticket(id=4)
+11-12-2024 13:01:16 - Customer(id=4) bought Ticket(id=4)
+11-12-2024 13:01:16 - Vendor(id=5) started selling tickets.
+11-12-2024 13:01:16 - Customer(id=5) started buying tickets.
+11-12-2024 13:01:16 - Vendor(id=5) added Ticket(id=5)
+11-12-2024 13:01:16 - Customer(id=5) bought Ticket(id=5)
+11-12-2024 13:01:16 - Vendor(id=6) started selling tickets.
+11-12-2024 13:01:16 - Customer(id=6) started buying tickets.
+11-12-2024 13:01:16 - Vendor(id=6) added Ticket(id=6)
+11-12-2024 13:01:16 - Customer(id=6) bought Ticket(id=6)
+11-12-2024 13:01:16 - Vendor(id=7) started selling tickets.
+11-12-2024 13:01:16 - Vendor(id=7) added Ticket(id=7)
+11-12-2024 13:01:16 - Customer(id=7) started buying tickets.
+11-12-2024 13:01:16 - Customer(id=7) bought Ticket(id=7)
+11-12-2024 13:01:16 - Vendor(id=8) started selling tickets.
+11-12-2024 13:01:16 - Vendor(id=8) added Ticket(id=8)
+11-12-2024 13:01:16 - Customer(id=8) started buying tickets.
+11-12-2024 13:01:16 - Customer(id=8) bought Ticket(id=8)
+11-12-2024 13:01:16 - Vendor(id=9) started selling tickets.
+11-12-2024 13:01:16 - Customer(id=9) started buying tickets.
+11-12-2024 13:01:16 - Vendor(id=9) added Ticket(id=9)
+11-12-2024 13:01:16 - Customer(id=9) bought Ticket(id=9)
+11-12-2024 13:01:16 - Vendor(id=10) started selling tickets.
+11-12-2024 13:01:16 - Vendor(id=10) added Ticket(id=10)
+11-12-2024 13:01:16 - Customer(id=10) started buying tickets.
+11-12-2024 13:01:16 - Customer(id=10) bought Ticket(id=10)
+11-12-2024 13:01:21 - Vendor(id=1) added Ticket(id=11)
+11-12-2024 13:01:21 - Vendor(id=2) added Ticket(id=12)
+11-12-2024 13:01:21 - Vendor(id=3) added Ticket(id=13)
+11-12-2024 13:01:21 - Vendor(id=4) added Ticket(id=14)
+11-12-2024 13:01:21 - Vendor(id=5) added Ticket(id=15)
+11-12-2024 13:01:21 - Vendor(id=6) added Ticket(id=16)
+11-12-2024 13:01:21 - Vendor(id=7) added Ticket(id=17)
+11-12-2024 13:01:21 - Vendor(id=8) added Ticket(id=18)
+11-12-2024 13:01:21 - Vendor(id=9) added Ticket(id=19)
+11-12-2024 13:01:21 - Vendor(id=10) added Ticket(id=20)
+11-12-2024 13:03:28 - Vendor(id=1) started selling tickets.
+11-12-2024 13:03:28 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 13:03:28 - Customer(id=1) started buying tickets.
+11-12-2024 13:03:28 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 13:03:28 - Vendor(id=2) started selling tickets.
+11-12-2024 13:03:28 - Vendor(id=2) added Ticket(id=2)
+11-12-2024 13:03:28 - Customer(id=2) started buying tickets.
+11-12-2024 13:03:28 - Customer(id=2) bought Ticket(id=2)
+11-12-2024 13:03:28 - Vendor(id=3) started selling tickets.
+11-12-2024 13:03:28 - Vendor(id=3) added Ticket(id=3)
+11-12-2024 13:03:28 - Customer(id=3) started buying tickets.
+11-12-2024 13:03:28 - Customer(id=3) bought Ticket(id=3)
+11-12-2024 13:03:28 - Vendor(id=4) started selling tickets.
+11-12-2024 13:03:28 - Customer(id=4) started buying tickets.
+11-12-2024 13:03:28 - Vendor(id=4) added Ticket(id=4)
+11-12-2024 13:03:28 - Customer(id=4) bought Ticket(id=4)
+11-12-2024 13:03:28 - Vendor(id=5) started selling tickets.
+11-12-2024 13:03:28 - Customer(id=5) started buying tickets.
+11-12-2024 13:03:28 - Vendor(id=5) added Ticket(id=5)
+11-12-2024 13:03:28 - Customer(id=5) bought Ticket(id=5)
+11-12-2024 13:03:28 - Vendor(id=6) started selling tickets.
+11-12-2024 13:03:28 - Customer(id=6) started buying tickets.
+11-12-2024 13:03:28 - Vendor(id=6) added Ticket(id=6)
+11-12-2024 13:03:28 - Customer(id=6) bought Ticket(id=6)
+11-12-2024 13:03:28 - Vendor(id=7) started selling tickets.
+11-12-2024 13:03:28 - Vendor(id=7) added Ticket(id=7)
+11-12-2024 13:03:28 - Customer(id=7) started buying tickets.
+11-12-2024 13:03:28 - Customer(id=7) bought Ticket(id=7)
+11-12-2024 13:03:28 - Vendor(id=8) started selling tickets.
+11-12-2024 13:03:28 - Customer(id=8) started buying tickets.
+11-12-2024 13:03:28 - Vendor(id=8) added Ticket(id=8)
+11-12-2024 13:03:28 - Customer(id=8) bought Ticket(id=8)
+11-12-2024 13:03:28 - Vendor(id=9) started selling tickets.
+11-12-2024 13:03:28 - Vendor(id=9) added Ticket(id=9)
+11-12-2024 13:03:28 - Customer(id=9) started buying tickets.
+11-12-2024 13:03:28 - Customer(id=9) bought Ticket(id=9)
+11-12-2024 13:03:28 - Vendor(id=10) started selling tickets.
+11-12-2024 13:03:28 - Vendor(id=10) added Ticket(id=10)
+11-12-2024 13:03:28 - Customer(id=10) started buying tickets.
+11-12-2024 13:03:28 - Customer(id=10) bought Ticket(id=10)
+11-12-2024 13:03:33 - Vendor(id=1) added Ticket(id=11)
+11-12-2024 13:03:33 - Vendor(id=2) added Ticket(id=12)
+11-12-2024 13:03:33 - Vendor(id=3) added Ticket(id=13)
+11-12-2024 13:03:33 - Vendor(id=4) added Ticket(id=14)
+11-12-2024 13:03:33 - Vendor(id=5) added Ticket(id=15)
+11-12-2024 13:03:33 - Vendor(id=7) added Ticket(id=16)
+11-12-2024 13:03:33 - Vendor(id=6) added Ticket(id=17)
+11-12-2024 13:03:33 - Vendor(id=8) added Ticket(id=18)
+11-12-2024 13:03:33 - Vendor(id=9) added Ticket(id=19)
+11-12-2024 13:03:33 - Vendor(id=10) added Ticket(id=20)
+11-12-2024 13:04:35 - Vendor(id=11) started selling tickets.
+11-12-2024 13:04:35 - Vendor(id=11) added Ticket(id=21)
+11-12-2024 13:04:35 - Customer(id=11) started buying tickets.
+11-12-2024 13:04:35 - Customer(id=11) bought Ticket(id=21)
+11-12-2024 13:04:35 - Vendor(id=12) started selling tickets.
+11-12-2024 13:04:35 - Customer(id=12) started buying tickets.
+11-12-2024 13:04:35 - Vendor(id=12) added Ticket(id=22)
+11-12-2024 13:04:35 - Customer(id=12) bought Ticket(id=22)
+11-12-2024 13:04:35 - Vendor(id=13) started selling tickets.
+11-12-2024 13:04:35 - Customer(id=13) started buying tickets.
+11-12-2024 13:04:35 - Vendor(id=13) added Ticket(id=23)
+11-12-2024 13:04:35 - Customer(id=13) bought Ticket(id=23)
+11-12-2024 13:04:35 - Vendor(id=14) started selling tickets.
+11-12-2024 13:04:35 - Vendor(id=14) added Ticket(id=24)
+11-12-2024 13:04:35 - Customer(id=14) started buying tickets.
+11-12-2024 13:04:35 - Customer(id=14) bought Ticket(id=24)
+11-12-2024 13:04:35 - Vendor(id=15) started selling tickets.
+11-12-2024 13:04:35 - Customer(id=15) started buying tickets.
+11-12-2024 13:04:35 - Vendor(id=15) added Ticket(id=25)
+11-12-2024 13:04:35 - Customer(id=15) bought Ticket(id=25)
+11-12-2024 13:04:35 - Vendor(id=16) started selling tickets.
+11-12-2024 13:04:35 - Vendor(id=16) added Ticket(id=26)
+11-12-2024 13:04:35 - Customer(id=16) started buying tickets.
+11-12-2024 13:04:35 - Customer(id=16) bought Ticket(id=26)
+11-12-2024 13:04:35 - Vendor(id=17) started selling tickets.
+11-12-2024 13:04:35 - Customer(id=17) started buying tickets.
+11-12-2024 13:04:35 - Vendor(id=17) added Ticket(id=27)
+11-12-2024 13:04:35 - Customer(id=17) bought Ticket(id=27)
+11-12-2024 13:04:35 - Vendor(id=18) started selling tickets.
+11-12-2024 13:04:35 - Customer(id=18) started buying tickets.
+11-12-2024 13:04:35 - Vendor(id=18) added Ticket(id=28)
+11-12-2024 13:04:35 - Customer(id=18) bought Ticket(id=28)
+11-12-2024 13:04:35 - Vendor(id=19) started selling tickets.
+11-12-2024 13:04:35 - Vendor(id=19) added Ticket(id=29)
+11-12-2024 13:04:35 - Customer(id=19) started buying tickets.
+11-12-2024 13:04:35 - Customer(id=19) bought Ticket(id=29)
+11-12-2024 13:04:35 - Vendor(id=20) started selling tickets.
+11-12-2024 13:04:35 - Vendor(id=20) added Ticket(id=30)
+11-12-2024 13:04:35 - Customer(id=20) started buying tickets.
+11-12-2024 13:04:35 - Customer(id=20) bought Ticket(id=30)
+11-12-2024 13:04:40 - Vendor(id=11) added Ticket(id=31)
+11-12-2024 13:04:40 - Vendor(id=12) added Ticket(id=32)
+11-12-2024 13:04:40 - Vendor(id=13) added Ticket(id=33)
+11-12-2024 13:04:40 - Vendor(id=14) added Ticket(id=34)
+11-12-2024 13:04:40 - Vendor(id=15) added Ticket(id=35)
+11-12-2024 13:04:40 - Vendor(id=16) added Ticket(id=36)
+11-12-2024 13:04:40 - Vendor(id=17) added Ticket(id=37)
+11-12-2024 13:04:40 - Vendor(id=18) added Ticket(id=38)
+11-12-2024 13:04:40 - Vendor(id=19) added Ticket(id=39)
+11-12-2024 13:04:40 - Vendor(id=20) added Ticket(id=40)
+11-12-2024 14:19:57 - Vendor(id=1) started selling tickets.
+11-12-2024 14:19:57 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 14:19:57 - Customer(id=1) started buying tickets.
+11-12-2024 14:19:57 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 14:19:57 - Vendor(id=2) started selling tickets.
+11-12-2024 14:19:57 - Customer(id=2) started buying tickets.
+11-12-2024 14:19:57 - Vendor(id=2) added Ticket(id=2)
+11-12-2024 14:19:57 - Customer(id=2) bought Ticket(id=2)
+11-12-2024 14:19:57 - Vendor(id=3) started selling tickets.
+11-12-2024 14:19:57 - Customer(id=3) started buying tickets.
+11-12-2024 14:19:57 - Vendor(id=3) added Ticket(id=3)
+11-12-2024 14:19:57 - Customer(id=3) bought Ticket(id=3)
+11-12-2024 14:19:57 - Vendor(id=4) started selling tickets.
+11-12-2024 14:19:57 - Vendor(id=4) added Ticket(id=4)
+11-12-2024 14:19:57 - Customer(id=4) started buying tickets.
+11-12-2024 14:19:57 - Customer(id=4) bought Ticket(id=4)
+11-12-2024 14:19:57 - Vendor(id=5) started selling tickets.
+11-12-2024 14:19:57 - Vendor(id=5) added Ticket(id=5)
+11-12-2024 14:19:57 - Customer(id=5) started buying tickets.
+11-12-2024 14:19:57 - Customer(id=5) bought Ticket(id=5)
+11-12-2024 14:19:57 - Vendor(id=6) started selling tickets.
+11-12-2024 14:19:57 - Vendor(id=6) added Ticket(id=6)
+11-12-2024 14:19:57 - Customer(id=6) started buying tickets.
+11-12-2024 14:19:57 - Customer(id=6) bought Ticket(id=6)
+11-12-2024 14:19:57 - Vendor(id=7) started selling tickets.
+11-12-2024 14:19:58 - Vendor(id=7) added Ticket(id=7)
+11-12-2024 14:19:58 - Customer(id=7) started buying tickets.
+11-12-2024 14:19:58 - Customer(id=7) bought Ticket(id=7)
+11-12-2024 14:19:58 - Vendor(id=8) started selling tickets.
+11-12-2024 14:19:58 - Customer(id=8) started buying tickets.
+11-12-2024 14:19:58 - Vendor(id=8) added Ticket(id=8)
+11-12-2024 14:19:58 - Customer(id=8) bought Ticket(id=8)
+11-12-2024 14:19:58 - Vendor(id=9) started selling tickets.
+11-12-2024 14:19:58 - Vendor(id=9) added Ticket(id=9)
+11-12-2024 14:19:58 - Customer(id=9) started buying tickets.
+11-12-2024 14:19:58 - Customer(id=9) bought Ticket(id=9)
+11-12-2024 14:19:58 - Vendor(id=10) started selling tickets.
+11-12-2024 14:19:58 - Customer(id=10) started buying tickets.
+11-12-2024 14:19:58 - Vendor(id=10) added Ticket(id=10)
+11-12-2024 14:19:58 - Customer(id=10) bought Ticket(id=10)
+11-12-2024 14:20:02 - Vendor(id=1) added Ticket(id=11)
+11-12-2024 14:20:02 - Vendor(id=2) added Ticket(id=12)
+11-12-2024 14:20:02 - Vendor(id=3) added Ticket(id=13)
+11-12-2024 14:20:02 - Vendor(id=4) added Ticket(id=14)
+11-12-2024 14:20:02 - Vendor(id=6) added Ticket(id=15)
+11-12-2024 14:20:03 - Vendor(id=5) added Ticket(id=16)
+11-12-2024 14:20:03 - Vendor(id=7) added Ticket(id=17)
+11-12-2024 14:20:03 - Vendor(id=8) added Ticket(id=18)
+11-12-2024 14:20:03 - Vendor(id=10) added Ticket(id=19)
+11-12-2024 14:20:03 - Vendor(id=9) added Ticket(id=20)
+11-12-2024 14:22:09 - Vendor(id=1) started selling tickets.
+11-12-2024 14:22:09 - Customer(id=1) started buying tickets.
+11-12-2024 14:22:09 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 14:22:09 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 14:22:09 - Vendor(id=2) started selling tickets.
+11-12-2024 14:22:09 - Customer(id=2) started buying tickets.
+11-12-2024 14:22:09 - Vendor(id=2) added Ticket(id=2)
+11-12-2024 14:22:09 - Customer(id=2) bought Ticket(id=2)
+11-12-2024 14:22:09 - Vendor(id=3) started selling tickets.
+11-12-2024 14:22:09 - Customer(id=3) started buying tickets.
+11-12-2024 14:22:09 - Vendor(id=3) added Ticket(id=3)
+11-12-2024 14:22:09 - Customer(id=3) bought Ticket(id=3)
+11-12-2024 14:22:09 - Vendor(id=4) started selling tickets.
+11-12-2024 14:22:09 - Vendor(id=4) added Ticket(id=4)
+11-12-2024 14:22:09 - Customer(id=4) started buying tickets.
+11-12-2024 14:22:09 - Customer(id=4) bought Ticket(id=4)
+11-12-2024 14:22:09 - Vendor(id=5) started selling tickets.
+11-12-2024 14:22:09 - Customer(id=5) started buying tickets.
+11-12-2024 14:22:09 - Vendor(id=5) added Ticket(id=5)
+11-12-2024 14:22:09 - Customer(id=5) bought Ticket(id=5)
+11-12-2024 14:22:09 - Vendor(id=6) started selling tickets.
+11-12-2024 14:22:09 - Vendor(id=6) added Ticket(id=6)
+11-12-2024 14:22:09 - Customer(id=6) started buying tickets.
+11-12-2024 14:22:09 - Customer(id=6) bought Ticket(id=6)
+11-12-2024 14:22:09 - Vendor(id=7) started selling tickets.
+11-12-2024 14:22:09 - Vendor(id=7) added Ticket(id=7)
+11-12-2024 14:22:09 - Customer(id=7) started buying tickets.
+11-12-2024 14:22:09 - Customer(id=7) bought Ticket(id=7)
+11-12-2024 14:22:09 - Vendor(id=8) started selling tickets.
+11-12-2024 14:22:09 - Vendor(id=8) added Ticket(id=8)
+11-12-2024 14:22:09 - Customer(id=8) started buying tickets.
+11-12-2024 14:22:09 - Customer(id=8) bought Ticket(id=8)
+11-12-2024 14:22:09 - Vendor(id=9) started selling tickets.
+11-12-2024 14:22:09 - Vendor(id=9) added Ticket(id=9)
+11-12-2024 14:22:09 - Customer(id=9) started buying tickets.
+11-12-2024 14:22:09 - Customer(id=9) bought Ticket(id=9)
+11-12-2024 14:22:09 - Vendor(id=10) started selling tickets.
+11-12-2024 14:22:09 - Vendor(id=10) added Ticket(id=10)
+11-12-2024 14:22:09 - Customer(id=10) started buying tickets.
+11-12-2024 14:22:09 - Customer(id=10) bought Ticket(id=10)
+11-12-2024 14:22:14 - Vendor(id=1) added Ticket(id=11)
+11-12-2024 14:22:14 - Vendor(id=2) added Ticket(id=12)
+11-12-2024 14:22:14 - Vendor(id=3) added Ticket(id=13)
+11-12-2024 14:22:14 - Vendor(id=4) added Ticket(id=14)
+11-12-2024 14:22:14 - Vendor(id=5) added Ticket(id=15)
+11-12-2024 14:22:14 - Vendor(id=6) added Ticket(id=16)
+11-12-2024 14:22:14 - Vendor(id=7) added Ticket(id=17)
+11-12-2024 14:22:14 - Vendor(id=8) added Ticket(id=18)
+11-12-2024 14:22:14 - Vendor(id=9) added Ticket(id=19)
+11-12-2024 14:22:14 - Vendor(id=10) added Ticket(id=20)
+11-12-2024 14:22:19 - Vendor(id=11) started selling tickets.
+11-12-2024 14:22:19 - Customer(id=11) started buying tickets.
+11-12-2024 14:22:19 - Vendor(id=11) added Ticket(id=21)
+11-12-2024 14:22:19 - Customer(id=11) bought Ticket(id=21)
+11-12-2024 14:22:19 - Vendor(id=12) started selling tickets.
+11-12-2024 14:22:19 - Vendor(id=12) added Ticket(id=22)
+11-12-2024 14:22:19 - Customer(id=12) started buying tickets.
+11-12-2024 14:22:19 - Customer(id=12) bought Ticket(id=22)
+11-12-2024 14:22:19 - Vendor(id=13) started selling tickets.
+11-12-2024 14:22:19 - Customer(id=13) started buying tickets.
+11-12-2024 14:22:19 - Vendor(id=13) added Ticket(id=23)
+11-12-2024 14:22:19 - Customer(id=13) bought Ticket(id=23)
+11-12-2024 14:22:19 - Vendor(id=14) started selling tickets.
+11-12-2024 14:22:19 - Customer(id=14) started buying tickets.
+11-12-2024 14:22:19 - Vendor(id=14) added Ticket(id=24)
+11-12-2024 14:22:19 - Customer(id=14) bought Ticket(id=24)
+11-12-2024 14:22:19 - Vendor(id=15) started selling tickets.
+11-12-2024 14:22:19 - Customer(id=15) started buying tickets.
+11-12-2024 14:22:19 - Vendor(id=15) added Ticket(id=25)
+11-12-2024 14:22:19 - Customer(id=15) bought Ticket(id=25)
+11-12-2024 14:22:19 - Vendor(id=16) started selling tickets.
+11-12-2024 14:22:19 - Customer(id=16) started buying tickets.
+11-12-2024 14:22:19 - Vendor(id=16) added Ticket(id=26)
+11-12-2024 14:22:19 - Customer(id=16) bought Ticket(id=26)
+11-12-2024 14:22:19 - Vendor(id=17) started selling tickets.
+11-12-2024 14:22:19 - Vendor(id=17) added Ticket(id=27)
+11-12-2024 14:22:19 - Customer(id=17) started buying tickets.
+11-12-2024 14:22:19 - Customer(id=17) bought Ticket(id=27)
+11-12-2024 14:22:19 - Vendor(id=18) started selling tickets.
+11-12-2024 14:22:19 - Vendor(id=18) added Ticket(id=28)
+11-12-2024 14:22:19 - Customer(id=18) started buying tickets.
+11-12-2024 14:22:19 - Customer(id=18) bought Ticket(id=28)
+11-12-2024 14:22:19 - Vendor(id=19) started selling tickets.
+11-12-2024 14:22:19 - Customer(id=19) started buying tickets.
+11-12-2024 14:22:19 - Vendor(id=19) added Ticket(id=29)
+11-12-2024 14:22:19 - Customer(id=19) bought Ticket(id=29)
+11-12-2024 14:22:19 - Vendor(id=20) started selling tickets.
+11-12-2024 14:22:19 - Vendor(id=20) added Ticket(id=30)
+11-12-2024 14:22:19 - Customer(id=20) started buying tickets.
+11-12-2024 14:22:19 - Customer(id=20) bought Ticket(id=30)
+11-12-2024 14:22:24 - Vendor(id=12) added Ticket(id=31)
+11-12-2024 14:22:24 - Vendor(id=11) added Ticket(id=32)
+11-12-2024 14:22:24 - Vendor(id=13) added Ticket(id=33)
+11-12-2024 14:22:24 - Vendor(id=14) added Ticket(id=34)
+11-12-2024 14:22:24 - Vendor(id=15) added Ticket(id=35)
+11-12-2024 14:22:24 - Vendor(id=16) added Ticket(id=36)
+11-12-2024 14:22:24 - Vendor(id=17) added Ticket(id=37)
+11-12-2024 14:22:24 - Vendor(id=18) added Ticket(id=38)
+11-12-2024 14:22:24 - Vendor(id=19) added Ticket(id=39)
+11-12-2024 14:22:24 - Vendor(id=20) added Ticket(id=40)
+11-12-2024 14:23:17 - Vendor(id=21) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=21) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=21) added Ticket(id=41)
+11-12-2024 14:23:17 - Customer(id=21) bought Ticket(id=41)
+11-12-2024 14:23:17 - Vendor(id=22) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=22) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=22) added Ticket(id=42)
+11-12-2024 14:23:17 - Customer(id=22) bought Ticket(id=42)
+11-12-2024 14:23:17 - Vendor(id=23) started selling tickets.
+11-12-2024 14:23:17 - Vendor(id=23) added Ticket(id=43)
+11-12-2024 14:23:17 - Customer(id=23) started buying tickets.
+11-12-2024 14:23:17 - Customer(id=23) bought Ticket(id=43)
+11-12-2024 14:23:17 - Vendor(id=24) started selling tickets.
+11-12-2024 14:23:17 - Vendor(id=24) added Ticket(id=44)
+11-12-2024 14:23:17 - Customer(id=24) started buying tickets.
+11-12-2024 14:23:17 - Customer(id=24) bought Ticket(id=44)
+11-12-2024 14:23:17 - Vendor(id=25) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=25) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=25) added Ticket(id=45)
+11-12-2024 14:23:17 - Customer(id=25) bought Ticket(id=45)
+11-12-2024 14:23:17 - Vendor(id=26) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=26) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=26) added Ticket(id=46)
+11-12-2024 14:23:17 - Customer(id=26) bought Ticket(id=46)
+11-12-2024 14:23:17 - Vendor(id=27) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=27) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=27) added Ticket(id=47)
+11-12-2024 14:23:17 - Customer(id=27) bought Ticket(id=47)
+11-12-2024 14:23:17 - Vendor(id=28) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=28) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=28) added Ticket(id=48)
+11-12-2024 14:23:17 - Customer(id=28) bought Ticket(id=48)
+11-12-2024 14:23:17 - Vendor(id=29) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=29) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=29) added Ticket(id=49)
+11-12-2024 14:23:17 - Customer(id=29) bought Ticket(id=49)
+11-12-2024 14:23:17 - Vendor(id=30) started selling tickets.
+11-12-2024 14:23:17 - Customer(id=30) started buying tickets.
+11-12-2024 14:23:17 - Vendor(id=30) added Ticket(id=50)
+11-12-2024 14:23:17 - Customer(id=30) bought Ticket(id=50)
+11-12-2024 14:23:22 - Vendor(id=21) added Ticket(id=51)
+11-12-2024 14:23:22 - Vendor(id=22) added Ticket(id=52)
+11-12-2024 14:23:22 - Vendor(id=23) added Ticket(id=53)
+11-12-2024 14:23:22 - Vendor(id=24) added Ticket(id=54)
+11-12-2024 14:23:22 - Vendor(id=25) added Ticket(id=55)
+11-12-2024 14:23:22 - Vendor(id=26) added Ticket(id=56)
+11-12-2024 14:23:22 - Vendor(id=27) added Ticket(id=57)
+11-12-2024 14:23:22 - Vendor(id=28) added Ticket(id=58)
+11-12-2024 14:23:22 - Vendor(id=29) added Ticket(id=59)
+11-12-2024 14:23:22 - Vendor(id=30) added Ticket(id=60)
+11-12-2024 14:25:22 - Vendor(id=31) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=31) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=32) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=32) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=33) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=33) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=34) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=34) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=35) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=35) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=36) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=36) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=37) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=37) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=38) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=38) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=39) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=39) started buying tickets.
+11-12-2024 14:25:22 - Vendor(id=40) started selling tickets.
+11-12-2024 14:25:22 - Customer(id=40) started buying tickets.
+11-12-2024 14:31:27 - Vendor(id=41) started selling tickets.
+11-12-2024 14:31:27 - Vendor(id=41) added Ticket(id=61)
+11-12-2024 14:31:27 - Customer(id=41) started buying tickets.
+11-12-2024 14:31:27 - Customer(id=41) bought Ticket(id=61)
+11-12-2024 14:31:27 - Vendor(id=42) started selling tickets.
+11-12-2024 14:31:27 - Vendor(id=42) added Ticket(id=62)
+11-12-2024 14:31:27 - Customer(id=42) started buying tickets.
+11-12-2024 14:31:27 - Customer(id=42) bought Ticket(id=62)
+11-12-2024 14:31:27 - Vendor(id=43) started selling tickets.
+11-12-2024 14:31:27 - Vendor(id=43) added Ticket(id=63)
+11-12-2024 14:31:27 - Customer(id=43) started buying tickets.
+11-12-2024 14:31:27 - Customer(id=43) bought Ticket(id=63)
+11-12-2024 14:31:27 - Vendor(id=44) started selling tickets.
+11-12-2024 14:31:27 - Customer(id=44) started buying tickets.
+11-12-2024 14:31:27 - Vendor(id=44) added Ticket(id=64)
+11-12-2024 14:31:27 - Customer(id=44) bought Ticket(id=64)
+11-12-2024 14:31:27 - Vendor(id=45) started selling tickets.
+11-12-2024 14:31:27 - Customer(id=45) started buying tickets.
+11-12-2024 14:31:27 - Vendor(id=45) added Ticket(id=65)
+11-12-2024 14:31:27 - Customer(id=45) bought Ticket(id=65)
+11-12-2024 14:31:27 - Vendor(id=46) started selling tickets.
+11-12-2024 14:31:27 - Vendor(id=46) added Ticket(id=66)
+11-12-2024 14:31:27 - Customer(id=46) started buying tickets.
+11-12-2024 14:31:27 - Customer(id=46) bought Ticket(id=66)
+11-12-2024 14:31:27 - Vendor(id=47) started selling tickets.
+11-12-2024 14:31:27 - Customer(id=47) started buying tickets.
+11-12-2024 14:31:27 - Vendor(id=47) added Ticket(id=67)
+11-12-2024 14:31:27 - Customer(id=47) bought Ticket(id=67)
+11-12-2024 14:31:27 - Vendor(id=48) started selling tickets.
+11-12-2024 14:31:27 - Vendor(id=48) added Ticket(id=68)
+11-12-2024 14:31:27 - Customer(id=48) started buying tickets.
+11-12-2024 14:31:27 - Customer(id=48) bought Ticket(id=68)
+11-12-2024 14:31:27 - Vendor(id=49) started selling tickets.
+11-12-2024 14:31:27 - Vendor(id=49) added Ticket(id=69)
+11-12-2024 14:31:27 - Customer(id=49) started buying tickets.
+11-12-2024 14:31:27 - Customer(id=49) bought Ticket(id=69)
+11-12-2024 14:31:27 - Vendor(id=50) started selling tickets.
+11-12-2024 14:31:27 - Vendor(id=50) added Ticket(id=70)
+11-12-2024 14:31:27 - Customer(id=50) started buying tickets.
+11-12-2024 14:31:27 - Customer(id=50) bought Ticket(id=70)
+11-12-2024 14:31:32 - Vendor(id=41) added Ticket(id=71)
+11-12-2024 14:31:32 - Vendor(id=42) added Ticket(id=72)
+11-12-2024 14:31:32 - Vendor(id=43) added Ticket(id=73)
+11-12-2024 14:31:32 - Vendor(id=44) added Ticket(id=74)
+11-12-2024 14:31:32 - Vendor(id=45) added Ticket(id=75)
+11-12-2024 14:31:32 - Vendor(id=46) added Ticket(id=76)
+11-12-2024 14:31:32 - Vendor(id=47) added Ticket(id=77)
+11-12-2024 14:31:32 - Vendor(id=48) added Ticket(id=78)
+11-12-2024 14:31:32 - Vendor(id=49) added Ticket(id=79)
+11-12-2024 14:31:32 - Vendor(id=50) added Ticket(id=80)
+11-12-2024 14:36:21 - Vendor(id=51) started selling tickets.
+11-12-2024 14:36:21 - Customer(id=51) started buying tickets.
+11-12-2024 14:36:21 - Vendor(id=51) added Ticket(id=81)
+11-12-2024 14:36:21 - Customer(id=51) bought Ticket(id=81)
+11-12-2024 14:36:21 - Vendor(id=52) started selling tickets.
+11-12-2024 14:36:21 - Customer(id=52) started buying tickets.
+11-12-2024 14:36:21 - Vendor(id=52) added Ticket(id=82)
+11-12-2024 14:36:21 - Customer(id=52) bought Ticket(id=82)
+11-12-2024 14:36:21 - Vendor(id=53) started selling tickets.
+11-12-2024 14:36:21 - Vendor(id=53) added Ticket(id=83)
+11-12-2024 14:36:21 - Customer(id=53) started buying tickets.
+11-12-2024 14:36:21 - Customer(id=53) bought Ticket(id=83)
+11-12-2024 14:36:21 - Vendor(id=54) started selling tickets.
+11-12-2024 14:36:21 - Vendor(id=54) added Ticket(id=84)
+11-12-2024 14:36:21 - Customer(id=54) started buying tickets.
+11-12-2024 14:36:21 - Customer(id=54) bought Ticket(id=84)
+11-12-2024 14:36:21 - Vendor(id=55) started selling tickets.
+11-12-2024 14:36:21 - Customer(id=55) started buying tickets.
+11-12-2024 14:36:21 - Vendor(id=55) added Ticket(id=85)
+11-12-2024 14:36:21 - Customer(id=55) bought Ticket(id=85)
+11-12-2024 14:36:21 - Vendor(id=56) started selling tickets.
+11-12-2024 14:36:21 - Vendor(id=56) added Ticket(id=86)
+11-12-2024 14:36:21 - Customer(id=56) started buying tickets.
+11-12-2024 14:36:21 - Customer(id=56) bought Ticket(id=86)
+11-12-2024 14:36:21 - Vendor(id=57) started selling tickets.
+11-12-2024 14:36:21 - Customer(id=57) started buying tickets.
+11-12-2024 14:36:21 - Vendor(id=57) added Ticket(id=87)
+11-12-2024 14:36:21 - Customer(id=57) bought Ticket(id=87)
+11-12-2024 14:36:21 - Vendor(id=58) started selling tickets.
+11-12-2024 14:36:21 - Customer(id=58) started buying tickets.
+11-12-2024 14:36:21 - Vendor(id=58) added Ticket(id=88)
+11-12-2024 14:36:21 - Customer(id=58) bought Ticket(id=88)
+11-12-2024 14:36:21 - Vendor(id=59) started selling tickets.
+11-12-2024 14:36:21 - Customer(id=59) started buying tickets.
+11-12-2024 14:36:21 - Vendor(id=59) added Ticket(id=89)
+11-12-2024 14:36:21 - Customer(id=59) bought Ticket(id=89)
+11-12-2024 14:36:21 - Vendor(id=60) started selling tickets.
+11-12-2024 14:36:21 - Customer(id=60) started buying tickets.
+11-12-2024 14:36:21 - Vendor(id=60) added Ticket(id=90)
+11-12-2024 14:36:21 - Customer(id=60) bought Ticket(id=90)
+11-12-2024 14:36:26 - Vendor(id=51) added Ticket(id=91)
+11-12-2024 14:36:26 - Vendor(id=52) added Ticket(id=92)
+11-12-2024 14:36:26 - Vendor(id=53) added Ticket(id=93)
+11-12-2024 14:36:26 - Vendor(id=54) added Ticket(id=94)
+11-12-2024 14:36:26 - Vendor(id=55) added Ticket(id=95)
+11-12-2024 14:36:26 - Vendor(id=56) added Ticket(id=96)
+11-12-2024 14:36:26 - Vendor(id=58) added Ticket(id=97)
+11-12-2024 14:36:26 - Vendor(id=57) added Ticket(id=98)
+11-12-2024 14:36:26 - Vendor(id=59) added Ticket(id=99)
+11-12-2024 14:36:26 - Vendor(id=60) added Ticket(id=100)
+11-12-2024 14:46:52 - Vendor(id=61) started selling tickets.
+11-12-2024 14:46:52 - Vendor(id=61) added Ticket(id=101)
+11-12-2024 14:46:52 - Customer(id=61) started buying tickets.
+11-12-2024 14:46:52 - Customer(id=61) bought Ticket(id=101)
+11-12-2024 14:46:52 - Vendor(id=62) started selling tickets.
+11-12-2024 14:46:52 - Customer(id=62) started buying tickets.
+11-12-2024 14:46:52 - Vendor(id=62) added Ticket(id=102)
+11-12-2024 14:46:52 - Customer(id=62) bought Ticket(id=102)
+11-12-2024 14:46:52 - Vendor(id=63) started selling tickets.
+11-12-2024 14:46:52 - Customer(id=63) started buying tickets.
+11-12-2024 14:46:52 - Vendor(id=63) added Ticket(id=103)
+11-12-2024 14:46:52 - Customer(id=63) bought Ticket(id=103)
+11-12-2024 14:46:52 - Vendor(id=64) started selling tickets.
+11-12-2024 14:46:52 - Vendor(id=64) added Ticket(id=104)
+11-12-2024 14:46:52 - Customer(id=64) started buying tickets.
+11-12-2024 14:46:52 - Customer(id=64) bought Ticket(id=104)
+11-12-2024 14:46:52 - Vendor(id=65) started selling tickets.
+11-12-2024 14:46:52 - Vendor(id=65) added Ticket(id=105)
+11-12-2024 14:46:52 - Customer(id=65) started buying tickets.
+11-12-2024 14:46:52 - Customer(id=65) bought Ticket(id=105)
+11-12-2024 14:46:52 - Vendor(id=66) started selling tickets.
+11-12-2024 14:46:52 - Customer(id=66) started buying tickets.
+11-12-2024 14:46:52 - Vendor(id=66) added Ticket(id=106)
+11-12-2024 14:46:52 - Customer(id=66) bought Ticket(id=106)
+11-12-2024 14:46:52 - Vendor(id=67) started selling tickets.
+11-12-2024 14:46:52 - Customer(id=67) started buying tickets.
+11-12-2024 14:46:52 - Vendor(id=67) added Ticket(id=107)
+11-12-2024 14:46:52 - Customer(id=67) bought Ticket(id=107)
+11-12-2024 14:46:52 - Vendor(id=68) started selling tickets.
+11-12-2024 14:46:52 - Vendor(id=68) added Ticket(id=108)
+11-12-2024 14:46:52 - Customer(id=68) started buying tickets.
+11-12-2024 14:46:52 - Customer(id=68) bought Ticket(id=108)
+11-12-2024 14:46:52 - Vendor(id=69) started selling tickets.
+11-12-2024 14:46:52 - Customer(id=69) started buying tickets.
+11-12-2024 14:46:52 - Vendor(id=69) added Ticket(id=109)
+11-12-2024 14:46:52 - Customer(id=69) bought Ticket(id=109)
+11-12-2024 14:46:52 - Vendor(id=70) started selling tickets.
+11-12-2024 14:46:52 - Vendor(id=70) added Ticket(id=110)
+11-12-2024 14:46:52 - Customer(id=70) started buying tickets.
+11-12-2024 14:46:52 - Customer(id=70) bought Ticket(id=110)
+11-12-2024 14:46:57 - Vendor(id=61) added Ticket(id=111)
+11-12-2024 14:46:57 - Vendor(id=63) added Ticket(id=112)
+11-12-2024 14:46:57 - Vendor(id=62) added Ticket(id=113)
+11-12-2024 14:46:57 - Vendor(id=64) added Ticket(id=114)
+11-12-2024 14:46:57 - Vendor(id=66) added Ticket(id=115)
+11-12-2024 14:46:57 - Vendor(id=65) added Ticket(id=116)
+11-12-2024 14:46:57 - Vendor(id=67) added Ticket(id=117)
+11-12-2024 14:46:57 - Vendor(id=68) added Ticket(id=118)
+11-12-2024 14:46:57 - Vendor(id=70) added Ticket(id=119)
+11-12-2024 14:46:57 - Vendor(id=69) added Ticket(id=120)
+11-12-2024 15:24:36 - Vendor(id=71) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=71) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=71) added Ticket(id=121)
+11-12-2024 15:24:36 - Vendor(id=72) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=71) bought Ticket(id=121)
+11-12-2024 15:24:36 - Customer(id=72) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=72) added Ticket(id=122)
+11-12-2024 15:24:36 - Customer(id=72) bought Ticket(id=122)
+11-12-2024 15:24:36 - Vendor(id=73) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=73) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=73) added Ticket(id=123)
+11-12-2024 15:24:36 - Customer(id=73) bought Ticket(id=123)
+11-12-2024 15:24:36 - Vendor(id=74) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=74) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=74) added Ticket(id=124)
+11-12-2024 15:24:36 - Customer(id=74) bought Ticket(id=124)
+11-12-2024 15:24:36 - Vendor(id=75) started selling tickets.
+11-12-2024 15:24:36 - Vendor(id=75) added Ticket(id=125)
+11-12-2024 15:24:36 - Customer(id=75) started buying tickets.
+11-12-2024 15:24:36 - Customer(id=75) bought Ticket(id=125)
+11-12-2024 15:24:36 - Vendor(id=76) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=76) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=76) added Ticket(id=126)
+11-12-2024 15:24:36 - Customer(id=76) bought Ticket(id=126)
+11-12-2024 15:24:36 - Vendor(id=77) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=77) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=77) added Ticket(id=127)
+11-12-2024 15:24:36 - Customer(id=77) bought Ticket(id=127)
+11-12-2024 15:24:36 - Vendor(id=78) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=78) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=78) added Ticket(id=128)
+11-12-2024 15:24:36 - Vendor(id=79) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=78) bought Ticket(id=128)
+11-12-2024 15:24:36 - Customer(id=79) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=79) added Ticket(id=129)
+11-12-2024 15:24:36 - Customer(id=79) bought Ticket(id=129)
+11-12-2024 15:24:36 - Vendor(id=80) started selling tickets.
+11-12-2024 15:24:36 - Customer(id=80) started buying tickets.
+11-12-2024 15:24:36 - Vendor(id=80) added Ticket(id=130)
+11-12-2024 15:24:36 - Customer(id=80) bought Ticket(id=130)
+11-12-2024 15:24:41 - Vendor(id=71) added Ticket(id=131)
+11-12-2024 15:24:41 - Vendor(id=72) added Ticket(id=132)
+11-12-2024 15:24:41 - Vendor(id=73) added Ticket(id=133)
+11-12-2024 15:24:41 - Vendor(id=75) added Ticket(id=134)
+11-12-2024 15:24:41 - Vendor(id=74) added Ticket(id=135)
+11-12-2024 15:24:41 - Vendor(id=76) added Ticket(id=136)
+11-12-2024 15:24:41 - Vendor(id=78) added Ticket(id=137)
+11-12-2024 15:24:41 - Vendor(id=77) added Ticket(id=138)
+11-12-2024 15:24:41 - Vendor(id=79) added Ticket(id=139)
+11-12-2024 15:24:41 - Vendor(id=80) added Ticket(id=140)
+11-12-2024 15:34:03 - Vendor(id=81) started selling tickets.
+11-12-2024 15:34:03 - Vendor(id=81) added Ticket(id=141)
+11-12-2024 15:34:03 - Customer(id=81) started buying tickets.
+11-12-2024 15:34:03 - Customer(id=81) bought Ticket(id=141)
+11-12-2024 15:34:03 - Vendor(id=82) started selling tickets.
+11-12-2024 15:34:03 - Vendor(id=82) added Ticket(id=142)
+11-12-2024 15:34:03 - Customer(id=82) started buying tickets.
+11-12-2024 15:34:03 - Customer(id=82) bought Ticket(id=142)
+11-12-2024 15:34:03 - Vendor(id=83) started selling tickets.
+11-12-2024 15:34:03 - Vendor(id=83) added Ticket(id=143)
+11-12-2024 15:34:03 - Customer(id=83) started buying tickets.
+11-12-2024 15:34:03 - Customer(id=83) bought Ticket(id=143)
+11-12-2024 15:34:03 - Vendor(id=84) started selling tickets.
+11-12-2024 15:34:03 - Customer(id=84) started buying tickets.
+11-12-2024 15:34:03 - Vendor(id=84) added Ticket(id=144)
+11-12-2024 15:34:03 - Customer(id=84) bought Ticket(id=144)
+11-12-2024 15:34:03 - Vendor(id=85) started selling tickets.
+11-12-2024 15:34:03 - Customer(id=85) started buying tickets.
+11-12-2024 15:34:03 - Vendor(id=85) added Ticket(id=145)
+11-12-2024 15:34:03 - Customer(id=85) bought Ticket(id=145)
+11-12-2024 15:34:03 - Vendor(id=86) started selling tickets.
+11-12-2024 15:34:03 - Customer(id=86) started buying tickets.
+11-12-2024 15:34:03 - Vendor(id=86) added Ticket(id=146)
+11-12-2024 15:34:03 - Customer(id=86) bought Ticket(id=146)
+11-12-2024 15:34:03 - Vendor(id=87) started selling tickets.
+11-12-2024 15:34:03 - Customer(id=87) started buying tickets.
+11-12-2024 15:34:03 - Vendor(id=87) added Ticket(id=147)
+11-12-2024 15:34:03 - Customer(id=87) bought Ticket(id=147)
+11-12-2024 15:34:03 - Vendor(id=88) started selling tickets.
+11-12-2024 15:34:03 - Customer(id=88) started buying tickets.
+11-12-2024 15:34:03 - Vendor(id=88) added Ticket(id=148)
+11-12-2024 15:34:03 - Customer(id=88) bought Ticket(id=148)
+11-12-2024 15:34:03 - Vendor(id=89) started selling tickets.
+11-12-2024 15:34:03 - Customer(id=89) started buying tickets.
+11-12-2024 15:34:03 - Vendor(id=89) added Ticket(id=149)
+11-12-2024 15:34:03 - Customer(id=89) bought Ticket(id=149)
+11-12-2024 15:34:03 - Vendor(id=90) started selling tickets.
+11-12-2024 15:34:03 - Customer(id=90) started buying tickets.
+11-12-2024 15:34:03 - Vendor(id=90) added Ticket(id=150)
+11-12-2024 15:34:03 - Customer(id=90) bought Ticket(id=150)
+11-12-2024 15:34:08 - Vendor(id=81) added Ticket(id=151)
+11-12-2024 15:34:08 - Vendor(id=82) added Ticket(id=152)
+11-12-2024 15:34:08 - Vendor(id=83) added Ticket(id=153)
+11-12-2024 15:34:08 - Vendor(id=84) added Ticket(id=154)
+11-12-2024 15:34:08 - Vendor(id=85) added Ticket(id=155)
+11-12-2024 15:34:08 - Vendor(id=86) added Ticket(id=156)
+11-12-2024 15:34:08 - Vendor(id=87) added Ticket(id=157)
+11-12-2024 15:34:08 - Vendor(id=89) added Ticket(id=158)
+11-12-2024 15:34:08 - Vendor(id=88) added Ticket(id=159)
+11-12-2024 15:34:08 - Vendor(id=90) added Ticket(id=160)
+11-12-2024 15:35:29 - Vendor(id=91) started selling tickets.
+11-12-2024 15:35:29 - Customer(id=91) started buying tickets.
+11-12-2024 15:35:29 - Vendor(id=91) added Ticket(id=161)
+11-12-2024 15:35:29 - Customer(id=91) bought Ticket(id=161)
+11-12-2024 15:35:29 - Vendor(id=92) started selling tickets.
+11-12-2024 15:35:29 - Customer(id=92) started buying tickets.
+11-12-2024 15:35:29 - Vendor(id=92) added Ticket(id=162)
+11-12-2024 15:35:29 - Customer(id=92) bought Ticket(id=162)
+11-12-2024 15:35:29 - Vendor(id=93) started selling tickets.
+11-12-2024 15:35:29 - Customer(id=93) started buying tickets.
+11-12-2024 15:35:29 - Vendor(id=93) added Ticket(id=163)
+11-12-2024 15:35:29 - Customer(id=93) bought Ticket(id=163)
+11-12-2024 15:35:29 - Vendor(id=94) started selling tickets.
+11-12-2024 15:35:29 - Vendor(id=94) added Ticket(id=164)
+11-12-2024 15:35:29 - Customer(id=94) started buying tickets.
+11-12-2024 15:35:29 - Customer(id=94) bought Ticket(id=164)
+11-12-2024 15:35:29 - Vendor(id=95) started selling tickets.
+11-12-2024 15:35:29 - Customer(id=95) started buying tickets.
+11-12-2024 15:35:29 - Vendor(id=95) added Ticket(id=165)
+11-12-2024 15:35:29 - Customer(id=95) bought Ticket(id=165)
+11-12-2024 15:35:29 - Vendor(id=96) started selling tickets.
+11-12-2024 15:35:29 - Customer(id=96) started buying tickets.
+11-12-2024 15:35:29 - Vendor(id=96) added Ticket(id=166)
+11-12-2024 15:35:29 - Customer(id=96) bought Ticket(id=166)
+11-12-2024 15:35:29 - Vendor(id=97) started selling tickets.
+11-12-2024 15:35:29 - Customer(id=97) started buying tickets.
+11-12-2024 15:35:29 - Vendor(id=97) added Ticket(id=167)
+11-12-2024 15:35:29 - Customer(id=97) bought Ticket(id=167)
+11-12-2024 15:35:30 - Vendor(id=98) started selling tickets.
+11-12-2024 15:35:30 - Vendor(id=98) added Ticket(id=168)
+11-12-2024 15:35:30 - Customer(id=98) started buying tickets.
+11-12-2024 15:35:30 - Customer(id=98) bought Ticket(id=168)
+11-12-2024 15:35:30 - Vendor(id=99) started selling tickets.
+11-12-2024 15:35:30 - Customer(id=99) started buying tickets.
+11-12-2024 15:35:30 - Vendor(id=99) added Ticket(id=169)
+11-12-2024 15:35:30 - Customer(id=99) bought Ticket(id=169)
+11-12-2024 15:35:30 - Vendor(id=100) started selling tickets.
+11-12-2024 15:35:30 - Vendor(id=100) added Ticket(id=170)
+11-12-2024 15:35:30 - Customer(id=100) started buying tickets.
+11-12-2024 15:35:30 - Customer(id=100) bought Ticket(id=170)
+11-12-2024 15:35:34 - Vendor(id=91) added Ticket(id=171)
+11-12-2024 15:35:34 - Vendor(id=92) added Ticket(id=172)
+11-12-2024 15:35:34 - Vendor(id=93) added Ticket(id=173)
+11-12-2024 15:35:34 - Vendor(id=94) added Ticket(id=174)
+11-12-2024 15:35:34 - Vendor(id=95) added Ticket(id=175)
+11-12-2024 15:35:34 - Vendor(id=96) added Ticket(id=176)
+11-12-2024 15:35:35 - Vendor(id=97) added Ticket(id=177)
+11-12-2024 15:35:35 - Vendor(id=98) added Ticket(id=178)
+11-12-2024 15:35:35 - Vendor(id=99) added Ticket(id=179)
+11-12-2024 15:35:35 - Vendor(id=100) added Ticket(id=180)
+11-12-2024 15:41:32 - Vendor(id=101) started selling tickets.
+11-12-2024 15:41:32 - Customer(id=101) started buying tickets.
+11-12-2024 15:41:32 - Vendor(id=101) added Ticket(id=181)
+11-12-2024 15:41:32 - Customer(id=101) bought Ticket(id=181)
+11-12-2024 15:41:32 - Vendor(id=102) started selling tickets.
+11-12-2024 15:41:32 - Vendor(id=102) added Ticket(id=182)
+11-12-2024 15:41:32 - Customer(id=102) started buying tickets.
+11-12-2024 15:41:32 - Customer(id=102) bought Ticket(id=182)
+11-12-2024 15:41:32 - Vendor(id=103) started selling tickets.
+11-12-2024 15:41:32 - Vendor(id=103) added Ticket(id=183)
+11-12-2024 15:41:32 - Customer(id=103) started buying tickets.
+11-12-2024 15:41:32 - Customer(id=103) bought Ticket(id=183)
+11-12-2024 15:41:32 - Vendor(id=104) started selling tickets.
+11-12-2024 15:41:32 - Customer(id=104) started buying tickets.
+11-12-2024 15:41:32 - Vendor(id=104) added Ticket(id=184)
+11-12-2024 15:41:32 - Customer(id=104) bought Ticket(id=184)
+11-12-2024 15:41:32 - Vendor(id=105) started selling tickets.
+11-12-2024 15:41:32 - Customer(id=105) started buying tickets.
+11-12-2024 15:41:32 - Vendor(id=105) added Ticket(id=185)
+11-12-2024 15:41:32 - Customer(id=105) bought Ticket(id=185)
+11-12-2024 15:41:32 - Vendor(id=106) started selling tickets.
+11-12-2024 15:41:32 - Customer(id=106) started buying tickets.
+11-12-2024 15:41:32 - Vendor(id=106) added Ticket(id=186)
+11-12-2024 15:41:32 - Customer(id=106) bought Ticket(id=186)
+11-12-2024 15:41:32 - Vendor(id=107) started selling tickets.
+11-12-2024 15:41:32 - Customer(id=107) started buying tickets.
+11-12-2024 15:41:32 - Vendor(id=107) added Ticket(id=187)
+11-12-2024 15:41:32 - Customer(id=107) bought Ticket(id=187)
+11-12-2024 15:41:32 - Vendor(id=108) started selling tickets.
+11-12-2024 15:41:32 - Customer(id=108) started buying tickets.
+11-12-2024 15:41:32 - Vendor(id=108) added Ticket(id=188)
+11-12-2024 15:41:32 - Customer(id=108) bought Ticket(id=188)
+11-12-2024 15:41:32 - Vendor(id=109) started selling tickets.
+11-12-2024 15:41:32 - Vendor(id=109) added Ticket(id=189)
+11-12-2024 15:41:32 - Customer(id=109) started buying tickets.
+11-12-2024 15:41:32 - Customer(id=109) bought Ticket(id=189)
+11-12-2024 15:41:32 - Vendor(id=110) started selling tickets.
+11-12-2024 15:41:32 - Customer(id=110) started buying tickets.
+11-12-2024 15:41:32 - Vendor(id=110) added Ticket(id=190)
+11-12-2024 15:41:32 - Customer(id=110) bought Ticket(id=190)
+11-12-2024 15:41:37 - Vendor(id=101) added Ticket(id=191)
+11-12-2024 15:41:37 - Vendor(id=102) added Ticket(id=192)
+11-12-2024 15:41:37 - Vendor(id=103) added Ticket(id=193)
+11-12-2024 15:41:37 - Vendor(id=104) added Ticket(id=194)
+11-12-2024 15:41:37 - Vendor(id=105) added Ticket(id=195)
+11-12-2024 15:41:37 - Vendor(id=106) added Ticket(id=196)
+11-12-2024 15:41:37 - Vendor(id=107) added Ticket(id=197)
+11-12-2024 15:41:37 - Vendor(id=108) added Ticket(id=198)
+11-12-2024 15:41:37 - Vendor(id=109) added Ticket(id=199)
+11-12-2024 15:41:37 - Vendor(id=110) added Ticket(id=200)
+11-12-2024 15:58:00 - Vendor(id=111) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=111) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=111) added Ticket(id=201)
+11-12-2024 15:58:00 - Customer(id=111) bought Ticket(id=201)
+11-12-2024 15:58:00 - Vendor(id=112) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=112) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=112) added Ticket(id=202)
+11-12-2024 15:58:00 - Customer(id=112) bought Ticket(id=202)
+11-12-2024 15:58:00 - Vendor(id=113) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=113) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=113) added Ticket(id=203)
+11-12-2024 15:58:00 - Customer(id=113) bought Ticket(id=203)
+11-12-2024 15:58:00 - Vendor(id=114) started selling tickets.
+11-12-2024 15:58:00 - Vendor(id=114) added Ticket(id=204)
+11-12-2024 15:58:00 - Customer(id=114) started buying tickets.
+11-12-2024 15:58:00 - Customer(id=114) bought Ticket(id=204)
+11-12-2024 15:58:00 - Vendor(id=115) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=115) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=115) added Ticket(id=205)
+11-12-2024 15:58:00 - Customer(id=115) bought Ticket(id=205)
+11-12-2024 15:58:00 - Vendor(id=116) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=116) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=116) added Ticket(id=206)
+11-12-2024 15:58:00 - Customer(id=116) bought Ticket(id=206)
+11-12-2024 15:58:00 - Vendor(id=117) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=117) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=117) added Ticket(id=207)
+11-12-2024 15:58:00 - Customer(id=117) bought Ticket(id=207)
+11-12-2024 15:58:00 - Vendor(id=118) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=118) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=118) added Ticket(id=208)
+11-12-2024 15:58:00 - Customer(id=118) bought Ticket(id=208)
+11-12-2024 15:58:00 - Vendor(id=119) started selling tickets.
+11-12-2024 15:58:00 - Customer(id=119) started buying tickets.
+11-12-2024 15:58:00 - Vendor(id=119) added Ticket(id=209)
+11-12-2024 15:58:00 - Customer(id=119) bought Ticket(id=209)
+11-12-2024 15:58:00 - Vendor(id=120) started selling tickets.
+11-12-2024 15:58:00 - Vendor(id=120) added Ticket(id=210)
+11-12-2024 15:58:00 - Customer(id=120) started buying tickets.
+11-12-2024 15:58:00 - Customer(id=120) bought Ticket(id=210)
+11-12-2024 15:58:05 - Vendor(id=112) added Ticket(id=211)
+11-12-2024 15:58:05 - Vendor(id=111) added Ticket(id=212)
+11-12-2024 15:58:05 - Vendor(id=114) added Ticket(id=213)
+11-12-2024 15:58:05 - Vendor(id=113) added Ticket(id=214)
+11-12-2024 15:58:05 - Vendor(id=116) added Ticket(id=215)
+11-12-2024 15:58:05 - Vendor(id=115) added Ticket(id=216)
+11-12-2024 15:58:05 - Vendor(id=117) added Ticket(id=217)
+11-12-2024 15:58:05 - Vendor(id=118) added Ticket(id=218)
+11-12-2024 15:58:05 - Vendor(id=119) added Ticket(id=219)
+11-12-2024 15:58:05 - Vendor(id=120) added Ticket(id=220)
+11-12-2024 15:59:19 - Vendor(id=121) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=121) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=121) added Ticket(id=221)
+11-12-2024 15:59:19 - Customer(id=121) bought Ticket(id=221)
+11-12-2024 15:59:19 - Vendor(id=122) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=122) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=122) added Ticket(id=222)
+11-12-2024 15:59:19 - Vendor(id=123) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=122) bought Ticket(id=222)
+11-12-2024 15:59:19 - Customer(id=123) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=123) added Ticket(id=223)
+11-12-2024 15:59:19 - Customer(id=123) bought Ticket(id=223)
+11-12-2024 15:59:19 - Vendor(id=124) started selling tickets.
+11-12-2024 15:59:19 - Vendor(id=124) added Ticket(id=224)
+11-12-2024 15:59:19 - Customer(id=124) started buying tickets.
+11-12-2024 15:59:19 - Customer(id=124) bought Ticket(id=224)
+11-12-2024 15:59:19 - Vendor(id=125) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=125) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=125) added Ticket(id=225)
+11-12-2024 15:59:19 - Customer(id=125) bought Ticket(id=225)
+11-12-2024 15:59:19 - Vendor(id=126) started selling tickets.
+11-12-2024 15:59:19 - Vendor(id=126) added Ticket(id=226)
+11-12-2024 15:59:19 - Customer(id=126) started buying tickets.
+11-12-2024 15:59:19 - Customer(id=126) bought Ticket(id=226)
+11-12-2024 15:59:19 - Vendor(id=127) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=127) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=127) added Ticket(id=227)
+11-12-2024 15:59:19 - Customer(id=127) bought Ticket(id=227)
+11-12-2024 15:59:19 - Vendor(id=128) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=128) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=128) added Ticket(id=228)
+11-12-2024 15:59:19 - Customer(id=128) bought Ticket(id=228)
+11-12-2024 15:59:19 - Vendor(id=129) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=129) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=129) added Ticket(id=229)
+11-12-2024 15:59:19 - Customer(id=129) bought Ticket(id=229)
+11-12-2024 15:59:19 - Vendor(id=130) started selling tickets.
+11-12-2024 15:59:19 - Customer(id=130) started buying tickets.
+11-12-2024 15:59:19 - Vendor(id=130) added Ticket(id=230)
+11-12-2024 15:59:19 - Customer(id=130) bought Ticket(id=230)
+11-12-2024 15:59:24 - Vendor(id=121) added Ticket(id=231)
+11-12-2024 15:59:24 - Vendor(id=123) added Ticket(id=232)
+11-12-2024 15:59:24 - Vendor(id=122) added Ticket(id=233)
+11-12-2024 15:59:24 - Vendor(id=124) added Ticket(id=234)
+11-12-2024 15:59:24 - Vendor(id=125) added Ticket(id=235)
+11-12-2024 15:59:24 - Vendor(id=126) added Ticket(id=236)
+11-12-2024 15:59:24 - Vendor(id=127) added Ticket(id=237)
+11-12-2024 15:59:24 - Vendor(id=128) added Ticket(id=238)
+11-12-2024 15:59:24 - Vendor(id=130) added Ticket(id=239)
+11-12-2024 15:59:24 - Vendor(id=129) added Ticket(id=240)
+11-12-2024 16:01:46 - Vendor(id=131) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=131) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=131) added Ticket(id=241)
+11-12-2024 16:01:46 - Customer(id=131) bought Ticket(id=241)
+11-12-2024 16:01:46 - Vendor(id=132) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=132) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=132) added Ticket(id=242)
+11-12-2024 16:01:46 - Customer(id=132) bought Ticket(id=242)
+11-12-2024 16:01:46 - Vendor(id=133) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=133) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=133) added Ticket(id=243)
+11-12-2024 16:01:46 - Customer(id=133) bought Ticket(id=243)
+11-12-2024 16:01:46 - Vendor(id=134) started selling tickets.
+11-12-2024 16:01:46 - Vendor(id=134) added Ticket(id=244)
+11-12-2024 16:01:46 - Customer(id=134) started buying tickets.
+11-12-2024 16:01:46 - Customer(id=134) bought Ticket(id=244)
+11-12-2024 16:01:46 - Vendor(id=135) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=135) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=135) added Ticket(id=245)
+11-12-2024 16:01:46 - Customer(id=135) bought Ticket(id=245)
+11-12-2024 16:01:46 - Vendor(id=136) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=136) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=136) added Ticket(id=246)
+11-12-2024 16:01:46 - Customer(id=136) bought Ticket(id=246)
+11-12-2024 16:01:46 - Vendor(id=137) started selling tickets.
+11-12-2024 16:01:46 - Vendor(id=137) added Ticket(id=247)
+11-12-2024 16:01:46 - Customer(id=137) started buying tickets.
+11-12-2024 16:01:46 - Customer(id=137) bought Ticket(id=247)
+11-12-2024 16:01:46 - Vendor(id=138) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=138) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=138) added Ticket(id=248)
+11-12-2024 16:01:46 - Customer(id=138) bought Ticket(id=248)
+11-12-2024 16:01:46 - Vendor(id=139) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=139) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=139) added Ticket(id=249)
+11-12-2024 16:01:46 - Vendor(id=140) started selling tickets.
+11-12-2024 16:01:46 - Customer(id=139) bought Ticket(id=249)
+11-12-2024 16:01:46 - Customer(id=140) started buying tickets.
+11-12-2024 16:01:46 - Vendor(id=140) added Ticket(id=250)
+11-12-2024 16:01:46 - Customer(id=140) bought Ticket(id=250)
+11-12-2024 16:01:51 - Vendor(id=131) added Ticket(id=251)
+11-12-2024 16:01:51 - Vendor(id=132) added Ticket(id=252)
+11-12-2024 16:01:51 - Vendor(id=133) added Ticket(id=253)
+11-12-2024 16:01:51 - Vendor(id=134) added Ticket(id=254)
+11-12-2024 16:01:51 - Vendor(id=135) added Ticket(id=255)
+11-12-2024 16:01:51 - Vendor(id=137) added Ticket(id=256)
+11-12-2024 16:01:51 - Vendor(id=136) added Ticket(id=257)
+11-12-2024 16:01:51 - Vendor(id=139) added Ticket(id=258)
+11-12-2024 16:01:51 - Vendor(id=138) added Ticket(id=259)
+11-12-2024 16:01:51 - Vendor(id=140) added Ticket(id=260)
+12-12-2024 00:24:39 - Vendor(id=1) thread started.
+12-12-2024 00:24:39 - Customer(id=1) thread started.
+12-12-2024 00:24:39 - Vendor(id=1) added Ticket(id=1)
+12-12-2024 00:24:39 - Customer(id=1) bought Ticket(id=1)
+12-12-2024 00:24:59 - Vendor(id=1) added Ticket(id=2)
+12-12-2024 00:24:59 - Customer(id=1) bought Ticket(id=2)
+12-12-2024 00:25:19 - Vendor(id=1) added Ticket(id=3)
+12-12-2024 00:25:19 - Customer(id=1) bought Ticket(id=3)
+12-12-2024 00:25:39 - Vendor(id=1) added Ticket(id=4)
+12-12-2024 00:25:39 - Customer(id=1) bought Ticket(id=4)
+12-12-2024 00:25:59 - Vendor(id=1) added Ticket(id=5)
+12-12-2024 00:25:59 - Customer(id=1) bought Ticket(id=5)
+12-12-2024 00:26:19 - Vendor(id=1) added Ticket(id=6)
+12-12-2024 00:26:19 - Customer(id=1) bought Ticket(id=6)
+12-12-2024 00:26:39 - Vendor(id=1) added Ticket(id=7)
+12-12-2024 00:26:39 - Customer(id=1) bought Ticket(id=7)
+12-12-2024 00:26:59 - Vendor(id=1) added Ticket(id=8)
+12-12-2024 00:26:59 - Customer(id=1) bought Ticket(id=8)
+12-12-2024 00:27:19 - Vendor(id=1) added Ticket(id=9)
+12-12-2024 00:27:19 - Customer(id=1) bought Ticket(id=9)
+12-12-2024 00:27:39 - Vendor(id=1) added Ticket(id=10)
+12-12-2024 00:27:39 - Customer(id=1) bought Ticket(id=10)
+11-12-2024 23:31:41 - Vendor(id=1) thread started.
+11-12-2024 23:31:41 - Vendor(id=2) thread started.
+11-12-2024 23:31:41 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 23:31:41 - Customer(id=1) thread started.
+11-12-2024 23:31:41 - Vendor(id=2) added Ticket(id=2)
+11-12-2024 23:31:41 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 23:31:46 - Vendor(id=1) added Ticket(id=3)
+11-12-2024 23:31:49 - Vendor(id=2) added Ticket(id=4)
+11-12-2024 23:31:51 - Vendor(id=1) added Ticket(id=5)
+11-12-2024 23:31:51 - Customer(id=1) bought Ticket(id=2)
+11-12-2024 23:31:56 - Vendor(id=1) added Ticket(id=6)
+11-12-2024 23:32:01 - Customer(id=1) bought Ticket(id=3)
+11-12-2024 23:32:01 - Vendor(id=1) added Ticket(id=7)
+11-12-2024 23:32:06 - Vendor(id=1) added Ticket(id=8)
+11-12-2024 23:32:11 - Customer(id=1) bought Ticket(id=4)
+11-12-2024 23:32:11 - Vendor(id=1) added Ticket(id=9)
+11-12-2024 23:32:16 - Vendor(id=1) added Ticket(id=10)
+11-12-2024 23:32:17 - Vendor(id=1) added Ticket(id=11)
+11-12-2024 23:32:17 - Customer(id=1) bought Ticket(id=5)
+11-12-2024 23:32:17 - Vendor(id=1) added Ticket(id=12)
+11-12-2024 23:32:17 - Customer(id=1) bought Ticket(id=6)
+11-12-2024 23:32:17 - Customer(id=1) bought Ticket(id=7)
+11-12-2024 23:32:17 - Customer(id=1) bought Ticket(id=8)
+11-12-2024 23:32:17 - Customer(id=1) bought Ticket(id=9)
+11-12-2024 23:32:17 - Customer(id=1) bought Ticket(id=10)
+11-12-2024 23:35:57 - Vendor(id=1) thread started.
+11-12-2024 23:35:57 - Customer(id=1) thread started.
+11-12-2024 23:35:57 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 23:35:57 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 23:36:02 - Vendor(id=1) added Ticket(id=2)
+11-12-2024 23:36:07 - Customer(id=1) bought Ticket(id=2)
+11-12-2024 23:36:07 - Vendor(id=1) added Ticket(id=3)
+11-12-2024 23:36:12 - Vendor(id=1) added Ticket(id=4)
+11-12-2024 23:36:17 - Customer(id=1) bought Ticket(id=3)
+11-12-2024 23:36:17 - Vendor(id=1) added Ticket(id=5)
+11-12-2024 23:36:22 - Vendor(id=1) added Ticket(id=6)
+11-12-2024 23:36:27 - Customer(id=1) bought Ticket(id=4)
+11-12-2024 23:36:27 - Vendor(id=1) added Ticket(id=7)
+11-12-2024 23:36:32 - Vendor(id=1) added Ticket(id=8)
+11-12-2024 23:36:37 - Customer(id=1) bought Ticket(id=5)
+11-12-2024 23:36:37 - Vendor(id=1) added Ticket(id=9)
+11-12-2024 23:36:42 - Vendor(id=1) added Ticket(id=10)
+11-12-2024 23:39:06 - Vendor(id=1) thread started.
+11-12-2024 23:39:06 - Vendor(id=2) thread started.
+11-12-2024 23:39:06 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 23:39:06 - Customer(id=1) thread started.
+11-12-2024 23:39:06 - Vendor(id=2) added Ticket(id=2)
+11-12-2024 23:39:06 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 23:39:09 - Vendor(id=2) added Ticket(id=3)
+11-12-2024 23:39:09 - Vendor(id=1) thread started.
+11-12-2024 23:39:09 - Vendor(id=2) thread started.
+11-12-2024 23:39:09 - Vendor(id=1) added Ticket(id=4)
+11-12-2024 23:39:09 - Customer(id=1) thread started.
+11-12-2024 23:39:09 - Vendor(id=2) added Ticket(id=5)
+11-12-2024 23:39:09 - Customer(id=1) bought Ticket(id=4)
+11-12-2024 23:39:09 - Vendor(id=1) thread started.
+11-12-2024 23:39:09 - Vendor(id=2) thread started.
+11-12-2024 23:39:09 - Vendor(id=1) added Ticket(id=6)
+11-12-2024 23:39:09 - Customer(id=1) thread started.
+11-12-2024 23:39:09 - Vendor(id=2) added Ticket(id=7)
+11-12-2024 23:39:09 - Customer(id=1) bought Ticket(id=6)
+11-12-2024 23:39:11 - Vendor(id=1) thread started.
+11-12-2024 23:39:11 - Vendor(id=2) thread started.
+11-12-2024 23:39:11 - Customer(id=1) thread started.
+11-12-2024 23:39:11 - Vendor(id=1) added Ticket(id=8)
+11-12-2024 23:39:11 - Vendor(id=2) added Ticket(id=9)
+11-12-2024 23:39:11 - Customer(id=1) bought Ticket(id=8)
+11-12-2024 23:39:11 - Vendor(id=1) added Ticket(id=10)
+11-12-2024 23:39:11 - Vendor(id=1) thread started.
+11-12-2024 23:39:11 - Vendor(id=2) thread started.
+11-12-2024 23:39:11 - Customer(id=1) thread started.
+11-12-2024 23:39:11 - Vendor(id=1) added Ticket(id=11)
+11-12-2024 23:39:11 - Customer(id=1) bought Ticket(id=11)
+11-12-2024 23:39:11 - Vendor(id=2) added Ticket(id=12)
+11-12-2024 23:39:12 - Vendor(id=1) thread started.
+11-12-2024 23:39:12 - Vendor(id=2) thread started.
+11-12-2024 23:39:12 - Customer(id=1) thread started.
+11-12-2024 23:39:12 - Vendor(id=1) added Ticket(id=13)
+11-12-2024 23:39:12 - Customer(id=1) bought Ticket(id=13)
+11-12-2024 23:39:12 - Vendor(id=2) added Ticket(id=14)
+11-12-2024 23:39:12 - Vendor(id=2) added Ticket(id=15)
+11-12-2024 23:39:12 - Vendor(id=2) added Ticket(id=16)
+11-12-2024 23:39:12 - Vendor(id=1) thread started.
+11-12-2024 23:39:12 - Vendor(id=2) thread started.
+11-12-2024 23:39:12 - Vendor(id=1) added Ticket(id=17)
+11-12-2024 23:39:12 - Customer(id=1) thread started.
+11-12-2024 23:39:12 - Vendor(id=2) added Ticket(id=18)
+11-12-2024 23:39:12 - Customer(id=1) bought Ticket(id=17)
+11-12-2024 23:39:12 - Vendor(id=2) added Ticket(id=19)
+11-12-2024 23:39:13 - Vendor(id=1) thread started.
+11-12-2024 23:39:13 - Vendor(id=2) thread started.
+11-12-2024 23:39:13 - Customer(id=1) thread started.
+11-12-2024 23:39:13 - Vendor(id=1) added Ticket(id=20)
+11-12-2024 23:39:13 - Customer(id=1) bought Ticket(id=20)
+11-12-2024 23:39:13 - Vendor(id=2) added Ticket(id=21)
+11-12-2024 23:39:14 - Vendor(id=1) added Ticket(id=22)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=23)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=24)
+11-12-2024 23:39:14 - Vendor(id=1) added Ticket(id=25)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=2)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=18)
+11-12-2024 23:39:14 - Vendor(id=1) added Ticket(id=26)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=14)
+11-12-2024 23:39:14 - Vendor(id=1) added Ticket(id=27)
+11-12-2024 23:39:14 - Vendor(id=1) added Ticket(id=28)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=5)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=12)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=21)
+11-12-2024 23:39:14 - Vendor(id=1) added Ticket(id=29)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=30)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=31)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=32)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=9)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=33)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=34)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=7)
+11-12-2024 23:39:14 - Vendor(id=1) added Ticket(id=35)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=36)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=19)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=37)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=38)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=27)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=39)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=40)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=41)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=25)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=23)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=16)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=28)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=24)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=3)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=42)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=43)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=44)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=10)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=29)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=33)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=22)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=35)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=31)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=45)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=46)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=47)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=36)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=48)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=49)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=26)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=50)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=34)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=51)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=52)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=50)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=53)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=54)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=55)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=40)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=43)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=30)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=38)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=42)
+11-12-2024 23:39:14 - Customer(id=1) bought Ticket(id=15)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=56)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=57)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=58)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=59)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=60)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=61)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=62)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=63)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=64)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=65)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=66)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=67)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=68)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=69)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=70)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=71)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=72)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=73)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=74)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=75)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=76)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=77)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=78)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=79)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=80)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=81)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=82)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=83)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=84)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=85)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=86)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=87)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=88)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=89)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=90)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=91)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=92)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=93)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=94)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=95)
+11-12-2024 23:39:14 - Vendor(id=2) added Ticket(id=96)
+11-12-2024 23:39:17 - Vendor(id=1) thread started.
+11-12-2024 23:39:17 - Vendor(id=2) thread started.
+11-12-2024 23:39:17 - Customer(id=1) thread started.
+11-12-2024 23:39:17 - Vendor(id=1) added Ticket(id=97)
+11-12-2024 23:39:17 - Customer(id=1) bought Ticket(id=97)
+11-12-2024 23:39:17 - Vendor(id=2) added Ticket(id=98)
+11-12-2024 23:39:20 - Vendor(id=2) added Ticket(id=99)
+11-12-2024 23:39:22 - Vendor(id=1) added Ticket(id=100)
+11-12-2024 23:39:23 - Vendor(id=2) added Ticket(id=101)
+11-12-2024 23:39:26 - Vendor(id=2) added Ticket(id=102)
+11-12-2024 23:39:27 - Customer(id=1) bought Ticket(id=98)
+11-12-2024 23:39:29 - Vendor(id=2) added Ticket(id=103)
+11-12-2024 23:39:32 - Vendor(id=2) added Ticket(id=104)
+11-12-2024 23:39:35 - Vendor(id=2) added Ticket(id=105)
+11-12-2024 23:39:37 - Customer(id=1) bought Ticket(id=99)
+11-12-2024 23:39:38 - Vendor(id=2) added Ticket(id=106)
+11-12-2024 23:39:41 - Vendor(id=2) added Ticket(id=107)
+11-12-2024 23:39:44 - Vendor(id=2) added Ticket(id=108)
+11-12-2024 23:39:47 - Customer(id=1) bought Ticket(id=100)
+11-12-2024 23:40:14 - Vendor(id=1) thread started.
+11-12-2024 23:40:14 - Customer(id=1) thread started.
+11-12-2024 23:40:14 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 23:40:14 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 23:40:34 - Vendor(id=1) thread started.
+11-12-2024 23:40:34 - Customer(id=1) thread started.
+11-12-2024 23:40:34 - Vendor(id=1) added Ticket(id=2)
+11-12-2024 23:40:34 - Customer(id=1) bought Ticket(id=2)
+11-12-2024 23:40:34 - Vendor(id=1) added Ticket(id=3)
+11-12-2024 23:40:34 - Customer(id=1) bought Ticket(id=3)
+11-12-2024 23:41:21 - Vendor(id=1) thread started.
+11-12-2024 23:41:21 - Customer(id=1) thread started.
+11-12-2024 23:41:21 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 23:41:21 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 23:41:31 - Vendor(id=1) added Ticket(id=2)
+11-12-2024 23:41:31 - Customer(id=1) bought Ticket(id=2)
+11-12-2024 23:41:41 - Vendor(id=1) added Ticket(id=3)
+11-12-2024 23:41:41 - Customer(id=1) bought Ticket(id=3)
+11-12-2024 23:41:51 - Vendor(id=1) added Ticket(id=4)
+11-12-2024 23:41:51 - Customer(id=1) bought Ticket(id=4)
+11-12-2024 23:42:01 - Vendor(id=1) added Ticket(id=5)
+11-12-2024 23:42:01 - Customer(id=1) bought Ticket(id=5)
+11-12-2024 23:44:15 - Vendor(id=1) thread started.
+11-12-2024 23:44:15 - Vendor(id=1) added Ticket(id=6)
+11-12-2024 23:44:15 - Customer(id=1) thread started.
+11-12-2024 23:44:15 - Customer(id=1) bought Ticket(id=6)
+11-12-2024 23:44:25 - Vendor(id=1) added Ticket(id=7)
+11-12-2024 23:44:25 - Customer(id=1) bought Ticket(id=7)
+11-12-2024 23:44:35 - Vendor(id=1) added Ticket(id=8)
+11-12-2024 23:44:35 - Customer(id=1) bought Ticket(id=8)
+11-12-2024 23:44:45 - Vendor(id=1) added Ticket(id=9)
+11-12-2024 23:44:45 - Customer(id=1) bought Ticket(id=9)
+11-12-2024 23:44:55 - Vendor(id=1) added Ticket(id=10)
+11-12-2024 23:44:55 - Customer(id=1) bought Ticket(id=10)
+11-12-2024 23:56:05 - Vendor(id=1) thread started.
+11-12-2024 23:56:05 - Customer(id=1) thread started.
+11-12-2024 23:56:05 - Vendor(id=1) added Ticket(id=11)
+11-12-2024 23:56:05 - Customer(id=1) bought Ticket(id=11)
+11-12-2024 23:56:15 - Vendor(id=1) added Ticket(id=12)
+11-12-2024 23:56:15 - Customer(id=1) bought Ticket(id=12)
+11-12-2024 23:56:25 - Vendor(id=1) added Ticket(id=13)
+11-12-2024 23:56:25 - Customer(id=1) bought Ticket(id=13)
+11-12-2024 23:56:35 - Vendor(id=1) added Ticket(id=14)
+11-12-2024 23:56:35 - Customer(id=1) bought Ticket(id=14)
+11-12-2024 23:56:45 - Vendor(id=1) added Ticket(id=15)
+11-12-2024 23:56:45 - Customer(id=1) bought Ticket(id=15)
+11-12-2024 23:57:21 - Vendor(id=1) thread started.
+11-12-2024 23:57:21 - Customer(id=1) thread started.
+11-12-2024 23:57:21 - Vendor(id=1) added Ticket(id=16)
+11-12-2024 23:57:21 - Customer(id=1) bought Ticket(id=16)
+11-12-2024 23:57:31 - Vendor(id=1) added Ticket(id=17)
+11-12-2024 23:57:31 - Customer(id=1) bought Ticket(id=17)
+11-12-2024 23:58:09 - Vendor(id=1) thread started.
+11-12-2024 23:58:09 - Customer(id=1) thread started.
+11-12-2024 23:58:09 - Vendor(id=1) added Ticket(id=1)
+11-12-2024 23:58:09 - Customer(id=1) bought Ticket(id=1)
+11-12-2024 23:58:29 - Vendor(id=1) added Ticket(id=2)
+11-12-2024 23:58:29 - Customer(id=1) bought Ticket(id=2)
+11-12-2024 23:58:49 - Vendor(id=1) added Ticket(id=3)
+11-12-2024 23:58:49 - Customer(id=1) bought Ticket(id=3)
+11-12-2024 23:59:09 - Vendor(id=1) added Ticket(id=4)
+11-12-2024 23:59:09 - Customer(id=1) bought Ticket(id=4)
+11-12-2024 23:59:29 - Vendor(id=1) added Ticket(id=5)
+11-12-2024 23:59:29 - Customer(id=1) bought Ticket(id=5)
+12-12-2024 00:02:40 - Vendor(id=1) thread started.
+12-12-2024 00:02:40 - Vendor(id=1) added Ticket(id=6)
+12-12-2024 00:02:40 - Customer(id=1) thread started.
+12-12-2024 00:02:40 - Customer(id=1) bought Ticket(id=6)
+12-12-2024 00:02:50 - Vendor(id=1) thread started.
+12-12-2024 00:02:50 - Customer(id=1) thread started.
+12-12-2024 00:02:50 - Vendor(id=1) added Ticket(id=7)
+12-12-2024 00:02:50 - Customer(id=1) bought Ticket(id=7)
+12-12-2024 00:03:00 - Vendor(id=1) added Ticket(id=8)
+12-12-2024 00:03:00 - Customer(id=1) bought Ticket(id=8)
+12-12-2024 00:03:11 - Vendor(id=1) added Ticket(id=9)
+12-12-2024 00:03:11 - Customer(id=1) bought Ticket(id=9)
+12-12-2024 00:03:20 - Vendor(id=1) added Ticket(id=10)
+12-12-2024 00:03:20 - Customer(id=1) bought Ticket(id=10)
+12-12-2024 00:03:28 - Vendor(id=1) thread started.
+12-12-2024 00:03:28 - Customer(id=1) thread started.
+12-12-2024 00:03:28 - Vendor(id=1) added Ticket(id=11)
+12-12-2024 00:03:28 - Customer(id=1) bought Ticket(id=11)
+12-12-2024 00:03:31 - Vendor(id=1) added Ticket(id=12)
+12-12-2024 00:03:31 - Customer(id=1) bought Ticket(id=12)
+12-12-2024 00:03:40 - Vendor(id=1) added Ticket(id=13)
+12-12-2024 00:03:40 - Customer(id=1) bought Ticket(id=13)
+12-12-2024 00:03:48 - Vendor(id=1) added Ticket(id=14)
+12-12-2024 00:03:48 - Customer(id=1) bought Ticket(id=14)
+12-12-2024 00:03:51 - Vendor(id=1) added Ticket(id=15)
+12-12-2024 00:03:51 - Customer(id=1) bought Ticket(id=15)
+12-12-2024 00:04:00 - Vendor(id=1) added Ticket(id=16)
+12-12-2024 00:04:00 - Customer(id=1) bought Ticket(id=16)
+12-12-2024 00:04:08 - Vendor(id=1) added Ticket(id=17)
+12-12-2024 00:04:08 - Customer(id=1) bought Ticket(id=17)
+12-12-2024 00:04:11 - Vendor(id=1) added Ticket(id=18)
+12-12-2024 00:04:11 - Customer(id=1) bought Ticket(id=18)
+12-12-2024 00:04:27 - Vendor(id=1) thread started.
+12-12-2024 00:04:27 - Customer(id=1) thread started.
+12-12-2024 00:04:27 - Vendor(id=1) added Ticket(id=19)
+12-12-2024 00:04:27 - Customer(id=1) bought Ticket(id=19)
+12-12-2024 00:04:28 - Vendor(id=1) added Ticket(id=20)
+12-12-2024 00:04:28 - Customer(id=1) bought Ticket(id=20)
+12-12-2024 00:04:47 - Vendor(id=1) added Ticket(id=21)
+12-12-2024 00:04:47 - Customer(id=1) bought Ticket(id=21)
+12-12-2024 00:04:48 - Vendor(id=1) added Ticket(id=22)
+12-12-2024 00:04:48 - Customer(id=1) bought Ticket(id=22)
+12-12-2024 00:05:07 - Vendor(id=1) added Ticket(id=23)
+12-12-2024 00:05:07 - Customer(id=1) bought Ticket(id=23)
+12-12-2024 00:05:27 - Vendor(id=1) added Ticket(id=24)
+12-12-2024 00:05:27 - Customer(id=1) bought Ticket(id=24)
+12-12-2024 00:05:47 - Vendor(id=1) added Ticket(id=25)
+12-12-2024 00:05:47 - Customer(id=1) bought Ticket(id=25)
+12-12-2024 00:09:09 - Vendor(id=1) thread started.
+12-12-2024 00:09:09 - Customer(id=1) thread started.
+12-12-2024 00:09:09 - Vendor(id=1) added Ticket(id=26)
+12-12-2024 00:09:09 - Customer(id=1) bought Ticket(id=26)
+12-12-2024 00:09:29 - Vendor(id=1) added Ticket(id=27)
+12-12-2024 00:09:29 - Customer(id=1) bought Ticket(id=27)
+12-12-2024 00:09:41 - Vendor(id=1) thread started.
+12-12-2024 00:09:41 - Vendor(id=2) thread started.
+12-12-2024 00:09:41 - Vendor(id=1) added Ticket(id=28)
+12-12-2024 00:09:41 - Customer(id=1) thread started.
+12-12-2024 00:09:41 - Customer(id=1) bought Ticket(id=28)
+12-12-2024 00:09:41 - Vendor(id=2) added Ticket(id=29)
+12-12-2024 00:09:49 - Vendor(id=1) added Ticket(id=30)
+12-12-2024 00:09:49 - Customer(id=1) bought Ticket(id=30)
+12-12-2024 00:10:01 - Vendor(id=1) added Ticket(id=31)
+12-12-2024 00:10:01 - Customer(id=1) bought Ticket(id=29)
+12-12-2024 00:10:01 - Vendor(id=2) added Ticket(id=32)
+12-12-2024 00:10:09 - Vendor(id=1) added Ticket(id=33)
+12-12-2024 00:10:09 - Customer(id=1) bought Ticket(id=33)
+12-12-2024 00:10:21 - Vendor(id=1) added Ticket(id=34)
+12-12-2024 00:10:21 - Customer(id=1) bought Ticket(id=31)
+12-12-2024 00:10:21 - Vendor(id=2) added Ticket(id=35)
+12-12-2024 00:18:13 - Vendor(id=1) thread started.
+12-12-2024 00:18:13 - Customer(id=1) thread started.
+12-12-2024 00:18:13 - Vendor(id=1) added Ticket(id=1)
+12-12-2024 00:18:13 - Customer(id=1) bought Ticket(id=1)
+12-12-2024 00:18:18 - Vendor(id=1) added Ticket(id=2)
+12-12-2024 00:18:18 - Customer(id=1) bought Ticket(id=2)
+12-12-2024 00:18:23 - Vendor(id=1) added Ticket(id=3)
+12-12-2024 00:18:28 - Vendor(id=1) added Ticket(id=4)
+12-12-2024 00:18:33 - Vendor(id=1) added Ticket(id=5)
+12-12-2024 00:18:38 - Vendor(id=1) added Ticket(id=6)
+12-12-2024 00:18:43 - Vendor(id=1) added Ticket(id=7)
+12-12-2024 00:25:53 - Vendor(id=1) thread started.
+12-12-2024 00:25:53 - Vendor(id=2) thread started.
+12-12-2024 00:25:53 - Customer(id=1) thread started.
+12-12-2024 00:25:53 - Vendor(id=1) added Ticket(id=1)
+12-12-2024 00:25:53 - Customer(id=1) bought Ticket(id=1)
+12-12-2024 00:25:53 - Vendor(id=2) added Ticket(id=2)
+12-12-2024 00:25:58 - Vendor(id=1) added Ticket(id=3)
+12-12-2024 00:25:58 - Vendor(id=2) added Ticket(id=4)
+12-12-2024 00:26:03 - Customer(id=1) bought Ticket(id=2)
+12-12-2024 00:26:03 - Vendor(id=1) added Ticket(id=5)
+12-12-2024 00:26:03 - Vendor(id=2) added Ticket(id=6)
+12-12-2024 00:26:08 - Vendor(id=1) added Ticket(id=7)
+12-12-2024 00:26:08 - Vendor(id=2) added Ticket(id=8)
+12-12-2024 00:26:13 - Vendor(id=2) added Ticket(id=9)
+12-12-2024 00:26:13 - Vendor(id=1) added Ticket(id=10)
+12-12-2024 00:26:18 - Vendor(id=2) added Ticket(id=11)
+12-12-2024 00:26:23 - Vendor(id=2) added Ticket(id=12)
+12-12-2024 00:26:28 - Vendor(id=2) added Ticket(id=13)
+12-12-2024 00:26:33 - Vendor(id=2) added Ticket(id=14)
+12-12-2024 00:26:38 - Vendor(id=2) added Ticket(id=15)
+12-12-2024 00:29:59 - Vendor(id=1) thread started.
+12-12-2024 00:29:59 - Vendor(id=2) thread started.
+12-12-2024 00:29:59 - Customer(id=1) thread started.
+12-12-2024 00:29:59 - Vendor(id=1) added Ticket(id=1)
+12-12-2024 00:29:59 - Customer(id=1) bought Ticket(id=1)
+12-12-2024 00:29:59 - Vendor(id=2) added Ticket(id=2)
+12-12-2024 00:30:01 - Customer(id=1) bought Ticket(id=2)
+12-12-2024 00:30:01 - Vendor(id=1) thread started.
+12-12-2024 00:30:01 - Vendor(id=2) thread started.
+12-12-2024 00:30:01 - Vendor(id=1) added Ticket(id=3)
+12-12-2024 00:30:01 - Customer(id=1) thread started.
+12-12-2024 00:30:01 - Vendor(id=2) added Ticket(id=4)
+12-12-2024 00:30:01 - Customer(id=1) bought Ticket(id=3)
+12-12-2024 00:30:02 - Vendor(id=1) thread started.
+12-12-2024 00:30:02 - Vendor(id=2) thread started.
+12-12-2024 00:30:02 - Vendor(id=1) added Ticket(id=5)
+12-12-2024 00:30:02 - Customer(id=1) thread started.
+12-12-2024 00:30:02 - Vendor(id=2) added Ticket(id=6)
+12-12-2024 00:30:02 - Customer(id=1) bought Ticket(id=5)
+12-12-2024 00:30:02 - Vendor(id=1) thread started.
+12-12-2024 00:30:02 - Vendor(id=2) thread started.
+12-12-2024 00:30:02 - Customer(id=1) thread started.
+12-12-2024 00:30:02 - Vendor(id=1) added Ticket(id=7)
+12-12-2024 00:30:02 - Vendor(id=2) added Ticket(id=8)
+12-12-2024 00:30:02 - Customer(id=1) bought Ticket(id=7)
+12-12-2024 00:30:03 - Customer(id=1) bought Ticket(id=4)
+12-12-2024 00:30:04 - Customer(id=1) bought Ticket(id=6)
+12-12-2024 00:30:04 - Vendor(id=1) added Ticket(id=9)
+12-12-2024 00:30:04 - Customer(id=1) bought Ticket(id=9)
+12-12-2024 00:30:04 - Customer(id=1) bought Ticket(id=8)
+12-12-2024 00:30:05 - Vendor(id=2) added Ticket(id=10)
+12-12-2024 00:30:06 - Customer(id=1) bought Ticket(id=10)
+12-12-2024 00:30:06 - Vendor(id=1) added Ticket(id=11)
+12-12-2024 00:30:06 - Customer(id=1) bought Ticket(id=11)
+12-12-2024 00:30:07 - Vendor(id=1) added Ticket(id=12)
+12-12-2024 00:30:07 - Customer(id=1) bought Ticket(id=12)
+12-12-2024 00:30:07 - Vendor(id=1) added Ticket(id=13)
+12-12-2024 00:30:07 - Customer(id=1) bought Ticket(id=13)
+12-12-2024 00:30:07 - Vendor(id=2) added Ticket(id=14)
+12-12-2024 00:30:08 - Vendor(id=2) added Ticket(id=15)
+12-12-2024 00:30:08 - Vendor(id=2) added Ticket(id=16)
+12-12-2024 00:30:08 - Customer(id=1) bought Ticket(id=14)
+12-12-2024 00:30:09 - Customer(id=1) bought Ticket(id=15)
+12-12-2024 00:30:09 - Vendor(id=1) added Ticket(id=17)
+12-12-2024 00:30:09 - Customer(id=1) bought Ticket(id=17)
+12-12-2024 00:30:09 - Customer(id=1) bought Ticket(id=16)
+12-12-2024 00:30:11 - Vendor(id=2) added Ticket(id=18)
+12-12-2024 00:30:11 - Vendor(id=1) added Ticket(id=19)
+12-12-2024 00:30:11 - Customer(id=1) bought Ticket(id=19)
+12-12-2024 00:30:12 - Vendor(id=1) added Ticket(id=20)
+12-12-2024 00:30:12 - Customer(id=1) bought Ticket(id=20)
+12-12-2024 00:30:12 - Vendor(id=1) added Ticket(id=21)
+12-12-2024 00:30:12 - Customer(id=1) bought Ticket(id=21)
+12-12-2024 00:30:13 - Vendor(id=2) added Ticket(id=22)
+12-12-2024 00:30:14 - Vendor(id=2) added Ticket(id=23)
+12-12-2024 00:30:14 - Vendor(id=1) added Ticket(id=24)
+12-12-2024 00:30:14 - Vendor(id=2) added Ticket(id=25)
+12-12-2024 00:30:16 - Vendor(id=1) added Ticket(id=26)
+12-12-2024 00:30:17 - Vendor(id=1) added Ticket(id=27)
+12-12-2024 00:30:17 - Vendor(id=2) added Ticket(id=28)
+12-12-2024 00:30:17 - Vendor(id=1) added Ticket(id=29)
+12-12-2024 00:30:19 - Vendor(id=1) added Ticket(id=30)
+12-12-2024 00:30:19 - Vendor(id=2) added Ticket(id=31)
+12-12-2024 00:30:20 - Vendor(id=2) added Ticket(id=32)
+12-12-2024 00:30:20 - Vendor(id=2) added Ticket(id=33)
+12-12-2024 00:30:21 - Vendor(id=1) added Ticket(id=34)
+12-12-2024 00:30:22 - Vendor(id=1) added Ticket(id=35)
+12-12-2024 00:30:22 - Vendor(id=1) added Ticket(id=36)
+12-12-2024 00:30:23 - Vendor(id=2) added Ticket(id=37)
+12-12-2024 00:30:24 - Vendor(id=1) added Ticket(id=38)
+12-12-2024 00:30:25 - Vendor(id=2) added Ticket(id=39)
+12-12-2024 00:30:26 - Vendor(id=2) added Ticket(id=40)
+12-12-2024 00:30:26 - Vendor(id=2) added Ticket(id=41)
+12-12-2024 00:30:26 - Vendor(id=1) added Ticket(id=42)
+12-12-2024 00:30:27 - Vendor(id=1) added Ticket(id=43)
+12-12-2024 00:30:27 - Vendor(id=1) added Ticket(id=44)
+12-12-2024 00:30:29 - Vendor(id=2) added Ticket(id=45)
+12-12-2024 00:30:29 - Vendor(id=1) added Ticket(id=46)
+12-12-2024 00:30:31 - Vendor(id=2) added Ticket(id=47)
+12-12-2024 00:30:31 - Vendor(id=1) added Ticket(id=48)
+12-12-2024 00:30:32 - Vendor(id=2) added Ticket(id=49)
+12-12-2024 00:30:32 - Vendor(id=1) added Ticket(id=50)
+12-12-2024 00:30:32 - Vendor(id=2) added Ticket(id=51)
+12-12-2024 00:30:32 - Vendor(id=1) added Ticket(id=52)
+12-12-2024 00:30:34 - Vendor(id=1) added Ticket(id=53)
+12-12-2024 00:30:35 - Vendor(id=2) added Ticket(id=54)
+12-12-2024 00:30:36 - Vendor(id=1) added Ticket(id=55)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=56)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=57)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=58)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=59)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=60)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=61)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=62)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=63)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=64)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=65)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=66)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=67)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=68)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=69)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=70)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=71)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=72)
+12-12-2024 00:30:37 - Vendor(id=1) added Ticket(id=73)
+12-12-2024 00:30:37 - Vendor(id=2) added Ticket(id=74)
+12-12-2024 00:30:38 - Vendor(id=2) added Ticket(id=75)
+12-12-2024 00:30:38 - Vendor(id=2) added Ticket(id=76)
+12-12-2024 00:30:38 - Vendor(id=2) added Ticket(id=77)
+12-12-2024 00:30:38 - Vendor(id=1) added Ticket(id=78)
+12-12-2024 00:30:38 - Vendor(id=2) added Ticket(id=79)
+12-12-2024 00:30:38 - Vendor(id=2) added Ticket(id=80)
+12-12-2024 00:31:03 - Vendor(id=1) thread started.
+12-12-2024 00:31:03 - Vendor(id=2) thread started.
+12-12-2024 00:31:03 - Customer(id=1) thread started.
+12-12-2024 00:31:03 - Vendor(id=1) added Ticket(id=81)
+12-12-2024 00:31:03 - Customer(id=1) bought Ticket(id=81)
+12-12-2024 00:31:03 - Vendor(id=2) added Ticket(id=82)
+12-12-2024 00:31:05 - Customer(id=1) bought Ticket(id=82)
+12-12-2024 00:31:08 - Vendor(id=1) added Ticket(id=83)
+12-12-2024 00:31:08 - Customer(id=1) bought Ticket(id=83)
+12-12-2024 00:31:09 - Vendor(id=2) added Ticket(id=84)
+12-12-2024 00:31:10 - Customer(id=1) bought Ticket(id=84)
+12-12-2024 00:31:13 - Vendor(id=1) added Ticket(id=85)
+12-12-2024 00:31:13 - Customer(id=1) bought Ticket(id=85)
+12-12-2024 00:31:15 - Vendor(id=2) added Ticket(id=86)
+12-12-2024 00:31:18 - Vendor(id=1) added Ticket(id=87)
+12-12-2024 00:31:21 - Vendor(id=2) added Ticket(id=88)
+12-12-2024 00:31:23 - Vendor(id=1) added Ticket(id=89)
+12-12-2024 00:31:27 - Vendor(id=2) added Ticket(id=90)
+12-12-2024 00:31:28 - Vendor(id=1) added Ticket(id=91)
+12-12-2024 11:21:33 - Vendor(id=1) thread started.
+12-12-2024 11:21:33 - Vendor(id=2) thread started.
+12-12-2024 11:21:33 - Customer(id=3) thread started.
+12-12-2024 11:21:33 - Vendor(id=1) added Ticket(id=1)
+12-12-2024 11:21:33 - Customer(id=4) thread started.
+12-12-2024 11:21:33 - Customer(id=4) bought Ticket(id=1)
+12-12-2024 11:21:33 - Vendor(id=2) added Ticket(id=2)
+12-12-2024 11:21:33 - Customer(id=3) bought Ticket(id=2)
+12-12-2024 11:21:36 - Vendor(id=1) added Ticket(id=3)
+12-12-2024 11:21:36 - Customer(id=3) bought Ticket(id=3)
+12-12-2024 11:21:39 - Vendor(id=1) added Ticket(id=4)
+12-12-2024 11:21:39 - Customer(id=3) bought Ticket(id=4)
+12-12-2024 11:21:39 - Vendor(id=2) added Ticket(id=5)
+12-12-2024 11:21:41 - Customer(id=3) bought Ticket(id=5)
+12-12-2024 11:21:42 - Vendor(id=1) added Ticket(id=6)
+12-12-2024 11:21:43 - Customer(id=3) bought Ticket(id=6)
+12-12-2024 11:21:45 - Vendor(id=1) added Ticket(id=7)
+12-12-2024 11:21:45 - Vendor(id=2) added Ticket(id=8)
+12-12-2024 11:21:48 - Vendor(id=1) added Ticket(id=9)
+12-12-2024 11:21:51 - Vendor(id=1) added Ticket(id=10)
+12-12-2024 11:21:51 - Vendor(id=2) added Ticket(id=11)
+12-12-2024 11:21:54 - Vendor(id=1) added Ticket(id=12)
+12-12-2024 11:21:57 - Vendor(id=2) added Ticket(id=13)
+12-12-2024 11:21:57 - Vendor(id=1) added Ticket(id=14)
+12-12-2024 11:22:00 - Vendor(id=1) added Ticket(id=15)
+12-12-2024 11:22:03 - Vendor(id=2) added Ticket(id=16)
+12-12-2024 11:22:09 - Vendor(id=2) added Ticket(id=17)
+12-12-2024 11:22:15 - Vendor(id=2) added Ticket(id=18)
+12-12-2024 11:22:21 - Vendor(id=2) added Ticket(id=19)
+12-12-2024 11:22:27 - Vendor(id=2) added Ticket(id=20)
+12-12-2024 11:22:33 - Vendor(id=2) added Ticket(id=21)
+12-12-2024 11:22:39 - Vendor(id=2) added Ticket(id=22)
+12-12-2024 11:22:45 - Vendor(id=2) added Ticket(id=23)
+12-12-2024 11:22:51 - Vendor(id=2) added Ticket(id=24)
+12-12-2024 11:22:57 - Vendor(id=2) added Ticket(id=25)
+12-12-2024 11:23:03 - Vendor(id=2) added Ticket(id=26)
+12-12-2024 11:25:04 - Vendor(id=1) thread started.
+12-12-2024 11:25:04 - Vendor(id=2) thread started.
+12-12-2024 11:25:04 - Customer(id=1) thread started.
+12-12-2024 11:25:04 - Vendor(id=1) added Ticket(id=1)
+12-12-2024 11:25:04 - Customer(id=2) thread started.
+12-12-2024 11:25:04 - Customer(id=1) bought Ticket(id=1)
+12-12-2024 11:25:04 - Vendor(id=2) added Ticket(id=2)
+12-12-2024 11:25:04 - Customer(id=2) bought Ticket(id=2)
+12-12-2024 11:25:06 - Vendor(id=1) added Ticket(id=3)
+12-12-2024 11:25:06 - Customer(id=1) bought Ticket(id=3)
+12-12-2024 11:25:08 - Vendor(id=1) added Ticket(id=4)
+12-12-2024 11:25:08 - Customer(id=1) bought Ticket(id=4)
+12-12-2024 11:25:09 - Vendor(id=2) added Ticket(id=5)
+12-12-2024 11:25:10 - Vendor(id=1) added Ticket(id=6)
+12-12-2024 11:25:10 - Customer(id=1) bought Ticket(id=5)
+12-12-2024 11:25:12 - Vendor(id=1) added Ticket(id=7)
+12-12-2024 11:25:12 - Customer(id=1) bought Ticket(id=6)
+12-12-2024 11:25:14 - Vendor(id=2) added Ticket(id=8)
+12-12-2024 11:25:14 - Vendor(id=1) added Ticket(id=9)
+12-12-2024 11:25:16 - Vendor(id=1) added Ticket(id=10)
+12-12-2024 11:25:18 - Vendor(id=1) added Ticket(id=11)
+12-12-2024 11:25:19 - Vendor(id=2) added Ticket(id=12)
+12-12-2024 11:25:20 - Vendor(id=1) added Ticket(id=13)
+12-12-2024 11:25:22 - Vendor(id=1) added Ticket(id=14)
+12-12-2024 11:25:24 - Vendor(id=2) added Ticket(id=15)
+12-12-2024 11:25:29 - Vendor(id=2) added Ticket(id=16)
+12-12-2024 11:25:34 - Vendor(id=2) added Ticket(id=17)
+12-12-2024 11:25:39 - Vendor(id=2) added Ticket(id=18)
+12-12-2024 11:25:44 - Vendor(id=2) added Ticket(id=19)
+12-12-2024 11:25:49 - Vendor(id=2) added Ticket(id=20)
+12-12-2024 11:25:54 - Vendor(id=2) added Ticket(id=21)
+12-12-2024 11:25:59 - Vendor(id=2) added Ticket(id=22)
+12-12-2024 11:26:04 - Vendor(id=2) added Ticket(id=23)
+12-12-2024 11:26:09 - Vendor(id=2) added Ticket(id=24)
+12-12-2024 11:26:14 - Vendor(id=2) added Ticket(id=25)
+12-12-2024 11:26:14 - Vendor(id=2) added Ticket(id=26)
